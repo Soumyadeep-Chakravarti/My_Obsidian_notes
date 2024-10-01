@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "387fd642406cfe23",
+        "id": "03b22f0a6f85e6fe",
         "type": "tabs",
         "children": [
           {
-            "id": "b921c669df65b506",
+            "id": "8e830c5bde731e02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47cd967c70c68005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Tags/Poems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebb6172b81d1bc07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Tags/Projects/Project-Novaflow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1a1a1a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Tags/Projects/Project-Novaflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Tags/Projects/Project-Novaflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Tags/Projects/Project-Novaflow.md"
+              }
             }
           },
           {
@@ -156,8 +192,23 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "27edf452de843e7a",
+  "active": "ebb6172b81d1bc07",
   "lastOpenFiles": [
+    "3. Tags/Projects/Project-Novaflow.md",
+    "3. Tags/Projects",
+    "3. Tags/Poems.md",
+    "1. Rough Notes/Untitled.md",
+    "1. Rough Notes/rough-1.md",
+    "1. Rough Notes/Chapter 1, Signals and Number Systems.md",
+    "1. Rough Notes/Budgeting app.md",
+    "1. Rough Notes/Architecture of Windowing System.md",
+    "1. Rough Notes/Detailed Notes on Computer Instructions and Their Types.md",
+    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
+    "3. Tags/student_study.md",
+    "6. Main Notes/My Poems/A Quiet Horizon.md",
+    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches/121212.png",
+    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches.md",
+    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color swatches.md",
     "6. Main Notes/PROJECTS/Novalflow",
     "2019-08-11-customize-the-favicon.md",
     "2019-08-08-write-a-new-post.md",
@@ -166,33 +217,19 @@
     "2019-08-08-text-and-typography.md",
     "6. Main Notes/My Poems/To Answer an Age-Old Question.md",
     "6. Main Notes/My Poems/To be Young Again.md",
-    "6. Main Notes/My Poems/A Quiet Horizon.md",
     "1. Rough Notes/Presentation Outline.md",
     "6. Main Notes/My Poems",
     "6. Main Notes/STUDYS/DLC/Presentation/Pros and Cons.md",
     "6. Main Notes/STUDYS/DLC/Presentation/Array Processor.md",
     "6. Main Notes/STUDYS/DLC/Presentation/The characteristics.md",
     "6. Main Notes/STUDYS/DLC/Presentation",
-    "1. Rough Notes/Budgeting app.md",
     "6. Main Notes/NSS/NSS Tree Plantation Drive.md",
     "6. Main Notes/NSS",
-    "1. Rough Notes/Chapter 1, Signals and Number Systems.md",
-    "1. Rough Notes/Detailed Notes on Computer Instructions and Their Types.md",
     "1. Rough Notes/Memory Reference Instructions.md",
-    "1. Rough Notes/Register Reference Instructions.md",
-    "1. Rough Notes/IO Reference Instructions.md",
-    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1/Que 2 Validate Usernames with Regular Expressions.md",
-    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1/Que 3 Construct a Pattern Using Nested For Loops.md",
-    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1/Que 1.md",
-    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1/Assignment 1.md",
-    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2/Assignment 2.md",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1",
-    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2/Que 4 Output of the Given Code.md",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS",
     "6. Main Notes/STUDYS/MATH",
-    "6. Main Notes/STUDYS/PYTHON",
-    "6. Main Notes/STUDYS/DLC",
-    "6. Main Notes/STUDYS/HCI"
+    "6. Main Notes/STUDYS/PYTHON"
   ]
 }
