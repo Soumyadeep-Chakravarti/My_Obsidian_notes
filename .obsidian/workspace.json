@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "ed68aaaa010eb188",
+    "type": "split",
+    "children": [
+      {
+        "id": "387fd642406cfe23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b921c669df65b506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/My Poems/Echoes of a Wounded Soul.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd9d90559663c0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "62773789e368577c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27edf452de843e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64d1b171968c85e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c326f31988335a1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ba17855df6f303ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e997bb99da536f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6fc84af68a8b209",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Main Notes/My Poems/Echoes of a Wounded Soul.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f6044830fb5cda6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Main Notes/My Poems/Echoes of a Wounded Soul.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13b2f06c79c306ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6328f3eb31d50173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Main Notes/My Poems/Echoes of a Wounded Soul.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "b921c669df65b506",
+  "lastOpenFiles": [
+    "6. Main Notes/My Poems/To Answer an Age-Old Question.md",
+    "6. Main Notes/My Poems/Echoes of a Wounded Soul.md",
+    "6. Main Notes/My Poems/To be Young Again.md",
+    "6. Main Notes/My Poems/A Quiet Horizon.md",
+    "1. Rough Notes/Presentation Outline.md",
+    "6. Main Notes/My Poems",
+    "6. Main Notes/STUDYS/DLC/Presentation/Pros and Cons.md",
+    "6. Main Notes/STUDYS/DLC/Presentation/Array Processor.md",
+    "6. Main Notes/STUDYS/DLC/Presentation/The characteristics.md",
+    "6. Main Notes/STUDYS/DLC/Presentation",
+    "1. Rough Notes/Budgeting app.md",
+    "6. Main Notes/NSS/NSS Tree Plantation Drive.md",
+    "6. Main Notes/NSS",
+    "1. Rough Notes/Chapter 1, Signals and Number Systems.md",
+    "1. Rough Notes/Detailed Notes on Computer Instructions and Their Types.md",
+    "1. Rough Notes/Memory Reference Instructions.md",
+    "1. Rough Notes/Register Reference Instructions.md",
+    "1. Rough Notes/IO Reference Instructions.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1/Que 2 Validate Usernames with Regular Expressions.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1/Que 3 Construct a Pattern Using Nested For Loops.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1/Que 1.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1/Assignment 1.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2/Assignment 2.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2/Que 4 Output of the Given Code.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2/Que 3 Demonstrate the Creation of a Class.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2/Que 1.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2/Que 2 Chain Map.md",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2",
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS",
+    "1. Rough Notes/Interfaces in Java.md",
+    "1. Rough Notes/Architecture of Windowing System.md",
+    "6. Main Notes/STUDYS/MATH",
+    "6. Main Notes/STUDYS/PYTHON",
+    "6. Main Notes/STUDYS/DLC",
+    "6. Main Notes/STUDYS/HCI"
+  ]
+}
