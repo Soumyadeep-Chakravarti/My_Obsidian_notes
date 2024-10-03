@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "47cd967c70c68005",
+            "id": "4af3819cab26d1ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Tags/Poems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebb6172b81d1bc07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Tags/Projects/Project-Novaflow.md",
+                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Tags/Projects/Project-Novaflow.md",
+                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Tags/Projects/Project-Novaflow.md",
+                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Tags/Projects/Project-Novaflow.md"
+                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md"
               }
             }
           },
@@ -192,18 +179,21 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "ebb6172b81d1bc07",
+  "active": "4af3819cab26d1ee",
   "lastOpenFiles": [
+    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
+    "3. Tags/Poems.md",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS/PDF_Conversions.md",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Image_Formats.md",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Computer Tools.md",
     "3. Tags/Projects/Project-Novaflow.md",
     "3. Tags/Projects",
-    "3. Tags/Poems.md",
     "1. Rough Notes/Untitled.md",
     "1. Rough Notes/rough-1.md",
     "1. Rough Notes/Chapter 1, Signals and Number Systems.md",
     "1. Rough Notes/Budgeting app.md",
     "1. Rough Notes/Architecture of Windowing System.md",
     "1. Rough Notes/Detailed Notes on Computer Instructions and Their Types.md",
-    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
     "3. Tags/student_study.md",
     "6. Main Notes/My Poems/A Quiet Horizon.md",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches/121212.png",
@@ -221,11 +211,8 @@
     "6. Main Notes/My Poems",
     "6. Main Notes/STUDYS/DLC/Presentation/Pros and Cons.md",
     "6. Main Notes/STUDYS/DLC/Presentation/Array Processor.md",
-    "6. Main Notes/STUDYS/DLC/Presentation/The characteristics.md",
     "6. Main Notes/STUDYS/DLC/Presentation",
-    "6. Main Notes/NSS/NSS Tree Plantation Drive.md",
     "6. Main Notes/NSS",
-    "1. Rough Notes/Memory Reference Instructions.md",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS",
