@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Blue Topaz",
   "theme": "obsidian",
-  "accentColor": "#426744",
+  "accentColor": "#414eb4",
   "enabledCssSnippets": [
     "color-swatches"
   ]

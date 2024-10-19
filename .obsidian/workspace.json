@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03b22f0a6f85e6fe",
+        "id": "66970bfb1e10823b",
         "type": "tabs",
         "children": [
           {
-            "id": "8e830c5bde731e02",
+            "id": "0bb209bf96098291",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,24 +17,40 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Color Schemes"
             }
           },
           {
-            "id": "4af3819cab26d1ee",
+            "id": "33f0bdc551d4516d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
+                "file": "1. Rough Notes/Computer Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Computer Networks"
+            }
+          },
+          {
+            "id": "e7cd3242b4f514f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -108,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Color Schemes"
             }
           },
           {
@@ -120,7 +144,9 @@
                 "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Color Schemes"
             }
           },
           {
@@ -131,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,7 +169,9 @@
               "type": "outline",
               "state": {
                 "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Color Schemes"
             }
           },
           {
@@ -153,7 +183,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -179,22 +211,28 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "4af3819cab26d1ee",
+  "active": "e7cd3242b4f514f8",
   "lastOpenFiles": [
+    "5. Templates/Full Note.md",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
+    "1. Rough Notes/Computer Networks.md",
+    "3. Tags/Projects/Project-Novaflow.md",
+    "1. Rough Notes/Usability Testing.md",
+    "1. Rough Notes/Customer Co-Creation.md",
+    "1. Rough Notes/UX Design.md",
+    "1. Rough Notes/Untitled.md",
+    "1. Rough Notes/Design Usability.md",
+    "3. Tags/student_study.md",
     "3. Tags/Poems.md",
     "6. Main Notes/PROJECTS/COMPUTER_TOOLS/PDF_Conversions.md",
     "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Image_Formats.md",
     "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Computer Tools.md",
-    "3. Tags/Projects/Project-Novaflow.md",
     "3. Tags/Projects",
-    "1. Rough Notes/Untitled.md",
     "1. Rough Notes/rough-1.md",
     "1. Rough Notes/Chapter 1, Signals and Number Systems.md",
     "1. Rough Notes/Budgeting app.md",
     "1. Rough Notes/Architecture of Windowing System.md",
     "1. Rough Notes/Detailed Notes on Computer Instructions and Their Types.md",
-    "3. Tags/student_study.md",
     "6. Main Notes/My Poems/A Quiet Horizon.md",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches/121212.png",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches.md",
@@ -204,13 +242,7 @@
     "2019-08-08-write-a-new-post.md",
     "2019-08-09-getting-started.md",
     "6. Main Notes/My Poems/Echoes of a Wounded Soul.md",
-    "2019-08-08-text-and-typography.md",
-    "6. Main Notes/My Poems/To Answer an Age-Old Question.md",
-    "6. Main Notes/My Poems/To be Young Again.md",
-    "1. Rough Notes/Presentation Outline.md",
     "6. Main Notes/My Poems",
-    "6. Main Notes/STUDYS/DLC/Presentation/Pros and Cons.md",
-    "6. Main Notes/STUDYS/DLC/Presentation/Array Processor.md",
     "6. Main Notes/STUDYS/DLC/Presentation",
     "6. Main Notes/NSS",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1",
