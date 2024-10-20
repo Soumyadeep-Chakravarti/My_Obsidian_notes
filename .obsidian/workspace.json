@@ -4,53 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "66970bfb1e10823b",
+        "id": "a557051a17c16571",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb209bf96098291",
+            "id": "2b7cc818088148c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Color Schemes"
-            }
-          },
-          {
-            "id": "33f0bdc551d4516d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Rough Notes/Computer Networks.md",
+                "file": "1. Rough Notes/ASSIGNMENT NO.1 PART-B.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Networks"
-            }
-          },
-          {
-            "id": "e7cd3242b4f514f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "ASSIGNMENT NO.1 PART-B"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ba17855df6f303ae",
@@ -197,6 +170,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
@@ -211,8 +186,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e7cd3242b4f514f8",
+  "active": "2b7cc818088148c9",
   "lastOpenFiles": [
+    "6. Main Notes/PROJECTS/LeetCode Solutions/Leet-Code-Target.md",
+    "1. Rough Notes/ASSIGNMENT NO.1 PART-B.md",
+    "1. Rough Notes/Analog Modulation.md",
+    "3. Tags/Projects/Leet-Code.md",
+    "6. Main Notes/PROJECTS/LeetCode Solutions",
     "5. Templates/Full Note.md",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
     "1. Rough Notes/Computer Networks.md",
@@ -238,17 +218,12 @@
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches.md",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color swatches.md",
     "6. Main Notes/PROJECTS/Novalflow",
-    "2019-08-11-customize-the-favicon.md",
-    "2019-08-08-write-a-new-post.md",
-    "2019-08-09-getting-started.md",
-    "6. Main Notes/My Poems/Echoes of a Wounded Soul.md",
     "6. Main Notes/My Poems",
     "6. Main Notes/STUDYS/DLC/Presentation",
     "6. Main Notes/NSS",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS",
-    "6. Main Notes/STUDYS/MATH",
-    "6. Main Notes/STUDYS/PYTHON"
+    "6. Main Notes/STUDYS/MATH"
   ]
 }

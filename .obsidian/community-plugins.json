@@ -2,5 +2,11 @@
   "smart-random-note",
   "gnome-terminal-loader",
   "code-emitter",
-  "better-word-count"
+  "better-word-count",
+  "table-editor-obsidian",
+  "obsidian-completr",
+  "obsidian-latex-environments",
+  "obsidian-latex-suite",
+  "templater-obsidian",
+  "obsidian-tikzjax"
 ]
