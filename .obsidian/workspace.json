@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a557051a17c16571",
+        "id": "80e8b43624c72efc",
         "type": "tabs",
         "children": [
           {
-            "id": "2b7cc818088148c9",
+            "id": "1f3bc5a6832a2bdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Rough Notes/ASSIGNMENT NO.1 PART-B.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ASSIGNMENT NO.1 PART-B"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ba17855df6f303ae",
@@ -186,10 +180,16 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "2b7cc818088148c9",
+  "active": "1f3bc5a6832a2bdf",
   "lastOpenFiles": [
-    "6. Main Notes/PROJECTS/LeetCode Solutions/Leet-Code-Target.md",
+    "6. Main Notes/STUDYS/Applied Linear Algebra/Types of Linear transformation.md",
+    "1. Rough Notes/Example for Sustainable Design.md",
+    "1. Rough Notes/Linear Transformation Formulas.md",
+    "6. Main Notes/STUDYS/Applied Linear Algebra/Vector Space.md",
+    "6. Main Notes/STUDYS/Applied Linear Algebra",
+    "6. Main Notes/My Poems/To be Young Again.md",
     "1. Rough Notes/ASSIGNMENT NO.1 PART-B.md",
+    "6. Main Notes/PROJECTS/LeetCode Solutions/Leet-Code-Target.md",
     "1. Rough Notes/Analog Modulation.md",
     "3. Tags/Projects/Leet-Code.md",
     "6. Main Notes/PROJECTS/LeetCode Solutions",
@@ -211,19 +211,13 @@
     "1. Rough Notes/rough-1.md",
     "1. Rough Notes/Chapter 1, Signals and Number Systems.md",
     "1. Rough Notes/Budgeting app.md",
-    "1. Rough Notes/Architecture of Windowing System.md",
-    "1. Rough Notes/Detailed Notes on Computer Instructions and Their Types.md",
-    "6. Main Notes/My Poems/A Quiet Horizon.md",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches/121212.png",
-    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches.md",
-    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color swatches.md",
     "6. Main Notes/PROJECTS/Novalflow",
     "6. Main Notes/My Poems",
     "6. Main Notes/STUDYS/DLC/Presentation",
     "6. Main Notes/NSS",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1",
     "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/2",
-    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS",
-    "6. Main Notes/STUDYS/MATH"
+    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS"
   ]
 }
