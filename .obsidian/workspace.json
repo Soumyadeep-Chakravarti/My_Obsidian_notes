@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "80e8b43624c72efc",
+        "id": "565a289572c84664",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3bc5a6832a2bdf",
+            "id": "9d5ea928d05efed7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Rough Notes/Untitled 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -180,8 +185,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1f3bc5a6832a2bdf",
+  "active": "9d5ea928d05efed7",
   "lastOpenFiles": [
+    "1. Rough Notes/Computer Networks Q3.md",
+    "1. Rough Notes/Computer Networks Q4.md",
+    "1. Rough Notes/Untitled 1.md",
     "6. Main Notes/STUDYS/Applied Linear Algebra/Types of Linear transformation.md",
     "1. Rough Notes/Example for Sustainable Design.md",
     "1. Rough Notes/Linear Transformation Formulas.md",
@@ -208,9 +216,6 @@
     "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Image_Formats.md",
     "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Computer Tools.md",
     "3. Tags/Projects",
-    "1. Rough Notes/rough-1.md",
-    "1. Rough Notes/Chapter 1, Signals and Number Systems.md",
-    "1. Rough Notes/Budgeting app.md",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches/121212.png",
     "6. Main Notes/PROJECTS/Novalflow",
     "6. Main Notes/My Poems",
