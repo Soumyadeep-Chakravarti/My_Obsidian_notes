@@ -65,7 +65,8 @@ In finite-dimensional vector spaces, a linear transformation can be represented 
 
 7. **Shear Transformation**:
    - Shifts each point in a fixed direction by an amount proportional to its distance from a line.
-   - For example, a horizontal shear in $\mathbb{R}^2$ might be represented as:$$
+   - For example, a horizontal shear in $\mathbb{R}^2$ might be represented as:
+	$$
      \begin{pmatrix} 1 & k \\ 0 & 1 \end{pmatrix}
      $$
      where $k$ determines the amount of shearing.
