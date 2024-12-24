@@ -8,5 +8,10 @@
   "obsidian-latex-environments",
   "obsidian-latex-suite",
   "templater-obsidian",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "calendar",
+  "better-markdown-links",
+  "brain-dump-mode",
+  "fast-text-color",
+  "journaling"
 ]

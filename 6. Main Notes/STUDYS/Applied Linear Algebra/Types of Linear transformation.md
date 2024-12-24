@@ -79,6 +79,6 @@ In finite-dimensional vector spaces, a linear transformation can be represented 
 
 - **Invertible Linear Transformation**: A linear transformation $T$is invertible if there exists another transformation $T^{-1}$such that:$$
   T(T^{-1}(\mathbf{w})) = \mathbf{w} \quad \text{and} \quad T^{-1}(T(\mathbf{v})) = \mathbf{v}
-  $$ In this case, $T$has a matrix representation that is **non-singular** (its determinant is non-zero).
+  $$ In this case, $T$ has a matrix representation that is **non-singular** (its determinant is non-zero).
 
 Understanding linear transformations and their types helps in visualizing how vectors change under various operations, and they are essential for fields like linear algebra, differential equations, and functional analysis.

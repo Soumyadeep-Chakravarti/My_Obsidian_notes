@@ -21,15 +21,12 @@ Formally, a vector space $V$ must satisfy the following properties:
 ### Examples of Vector Spaces
 
 1. **Euclidean Space $\mathbb{R}^n$**:
-    
     - The set of all $n$-tuples of real numbers forms a vector space.
     - Example: $\mathbb{R}^2$ represents a plane, and $\mathbb{R}^3$ represents 3D space.
 2. **Polynomial Vector Spaces**:
-    
     - The set of all polynomials of a certain degree (or less) can form a vector space.
     - Example: Polynomials of degree at most 2, $a_0 + a_1 x + a_2 x^2$, form a vector space.
 3. **Function Spaces**:
-    
     - The set of all continuous functions from $\mathbb{R}$ to $\mathbb{R}$ is also a vector space.
 
 ### Basis and Dimension

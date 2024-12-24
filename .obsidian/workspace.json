@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "92ae43b92969cb09",
+        "id": "c8acf8cc67661629",
         "type": "tabs",
         "children": [
           {
-            "id": "1773a26e88a8488e",
+            "id": "d0428e8864ebd46f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/STUDYS/EDM/EDM MODULE 2 STUDY NOTES.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "EDM MODULE 2 STUDY NOTES"
             }
           }
         ]
@@ -154,6 +159,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "14e81336c8d0147a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -180,44 +195,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1773a26e88a8488e",
+  "active": "d0428e8864ebd46f",
   "lastOpenFiles": [
-    "1. Rough Notes/Binary search.md",
-    "6. Main Notes/STUDYS/EDM/K-script.md",
-    "6. Main Notes/STUDYS/Applied Linear Algebra/Types of Linear transformation.md",
-    "Types of Linear transformation.pdf",
-    "1. Rough Notes/Analog Modulation.md",
-    "1. Rough Notes/Computer Networks.md",
-    "1. Rough Notes/Computer Networks Q4.md",
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 1 STUDY NOTES.md",
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 2 STUDY NOTES.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Enhancing Creativity.md",
+    "6. Main Notes/STUDYS/EDM/Topics",
     "1. Rough Notes/Customer Co-Creation.md",
+    "1. Rough Notes/Design Usability.md",
+    "1. Rough Notes/Linear Transformation Formulas.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Tools for Design Thinking.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Human-Centered Design (HCD).md",
+    "6. Main Notes/STUDYS/EDM/Topics/Engineering Design and Modelling.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Types of Design.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Dieter Rams' Ten Principles of Good Design.md",
+    "1. Rough Notes/Engineering Design and Modelling(Detailed.md",
+    "1. Rough Notes/Engineering.md",
+    "6. Main Notes/STUDYS/Applied Linear Algebra/Types of Linear transformation.md",
+    "6. Main Notes/STUDYS/Applied Linear Algebra/Vector Space.md",
+    "6. Main Notes/STUDYS/EDM/K-script.md",
+    "6. Main Notes/My Poems/A Quiet Horizon.md",
+    "1. Rough Notes/2024-12-21.md",
+    "1. Rough Notes/2024-12-17-math-class.md",
+    "1. Rough Notes/2024-12-20-DSA-Class.md",
+    "1. Rough Notes/UX Design.md",
+    "1. Rough Notes/Usability Testing.md",
     "1. Rough Notes/Untitled 3.md",
-    "6. Main Notes/STUDYS/EDM",
-    "Pasted image 20241128144403.png",
-    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
     "1. Rough Notes/Untitled 2.md",
     "1. Rough Notes/Untitled 1.md",
-    "1. Rough Notes/Computer Networks Q3.md",
-    "6. Main Notes/STUDYS/EDM/Example for Sustainable Design.md",
-    "1. Rough Notes/Linear Transformation Formulas.md",
-    "6. Main Notes/STUDYS/Applied Linear Algebra/Vector Space.md",
-    "6. Main Notes/STUDYS/Applied Linear Algebra",
-    "6. Main Notes/My Poems/To be Young Again.md",
-    "1. Rough Notes/ASSIGNMENT NO.1 PART-B.md",
-    "6. Main Notes/PROJECTS/LeetCode Solutions/Leet-Code-Target.md",
-    "3. Tags/Projects/Leet-Code.md",
-    "6. Main Notes/PROJECTS/LeetCode Solutions",
-    "5. Templates/Full Note.md",
-    "3. Tags/Projects/Project-Novaflow.md",
-    "1. Rough Notes/Usability Testing.md",
-    "1. Rough Notes/UX Design.md",
     "1. Rough Notes/Untitled.md",
-    "1. Rough Notes/Design Usability.md",
+    "Types of Linear transformation.pdf",
+    "6. Main Notes/STUDYS/EDM",
+    "Pasted image 20241128144403.png",
+    "6. Main Notes/STUDYS/Applied Linear Algebra",
+    "6. Main Notes/PROJECTS/LeetCode Solutions",
     "3. Tags/Projects",
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches/121212.png",
     "6. Main Notes/PROJECTS/Novalflow",
     "6. Main Notes/My Poems",
     "6. Main Notes/STUDYS/DLC/Presentation",
-    "6. Main Notes/NSS",
-    "6. Main Notes/STUDYS/PYTHON/ASSIGNMENTS/1"
+    "6. Main Notes/NSS"
   ]
 }
