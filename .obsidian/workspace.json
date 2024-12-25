@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "right": {
     "id": "ba17855df6f303ae",
@@ -166,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -191,11 +191,14 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "smart-random-note:Open Random Note from Search": false,
+      "gnome-terminal-loader:Gnome Terminal": false,
+      "gnome-terminal-loader:main.py (Gnome Terminal)": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "brain-dump-mode:Activate Brain Dump Mode": false
     }
   },
-  "active": "d0428e8864ebd46f",
+  "active": "27edf452de843e7a",
   "lastOpenFiles": [
     "6. Main Notes/STUDYS/EDM/EDM MODULE 1 STUDY NOTES.md",
     "6. Main Notes/STUDYS/EDM/EDM MODULE 2 STUDY NOTES.md",
