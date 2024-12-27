@@ -122,6 +122,8 @@ Automotive
 Aerospace
 Accurate
 Across
+Adobe
+Annotated
 the
 to
 turning
@@ -434,6 +436,11 @@ explored
 electronics
 enhanced
 experts
+explain
+experiment
+effort
+expertise
+essence
 design
 disaster
 designs
@@ -580,6 +587,10 @@ diverse
 deformation
 designing
 decorative
+drawings
+depth
+dashboards
+digitally
 process
 prototype
 portable
@@ -766,6 +777,10 @@ permanent
 possibilities
 paced
 predictive
+presentations
+paper
+precise
+paths
 create
 concepts
 carry
@@ -1019,6 +1034,8 @@ corrosion
 conductive
 cutting
 chemical
+conceptualize
+capturing
 of
 or
 operate
@@ -1098,6 +1115,7 @@ office
 omitting
 oversimplifying
 optimization
+overcomplicating
 water
 where
 with
@@ -1166,6 +1184,7 @@ woven
 wrought
 wires
 wafers
+wireframing
 filter
 for
 friendly
@@ -1305,6 +1324,8 @@ fastening
 framework
 flexibility
 forging
+freely
+foundation
 affected
 application
 abstract
@@ -1468,6 +1489,8 @@ assists
 alloys
 availability
 advanced
+annotated
+assemblies
 regions
 require
 readily
@@ -1624,6 +1647,10 @@ regain
 removal
 rubber
 reinforced
+relationships
+representations
+refinements
+record
 user
 use
 usability
@@ -1711,6 +1738,7 @@ UN
 Urban
 Utilizes
 Usage
+UI
 interface
 involves
 into
@@ -1861,6 +1889,8 @@ indentation
 ideation
 insulators
 impurities
+inexpensive
+identify
 smartphone
 steps
 should
@@ -2121,6 +2151,10 @@ strengths
 stability
 semi
 science
+styluses
+sessions
+schematics
+sketching
 Embodiment
 Evaluate
 Ease
@@ -2307,6 +2341,8 @@ Draws
 Diverse
 Diagrams
 Disciplines
+Depict
+Draft
 Process
 Portable
 Prototype
@@ -2412,6 +2448,11 @@ Prosthetic
 Porcelain
 Plastics
 Predictions
+Pencil
+Perspective
+Popular
+PowerPoint
+Progress
 Water
 Wireframes
 Will
@@ -2516,6 +2557,7 @@ Faster
 Ferrous
 Flattened
 Fosters
+Fidelity
 Regions
 Requirements
 Research
@@ -2693,6 +2735,13 @@ Torsion
 Toughness
 Takeaways
 Titanium
+Traditional
+Tablets
+Thumbnail
+Turns
+Tableau
+Translates
+Tool
 Clarify
 Cost
 Conceptual
@@ -2848,6 +2897,9 @@ Composed
 Combination
 Categorized
 Conductive
+CAM
+CAE
+Communicate
 Needs
 No
 Null
@@ -2991,6 +3043,7 @@ breakthrough
 beyond
 beginning
 bars
+blueprints
 minimal
 materials
 maintenance
@@ -3139,6 +3192,8 @@ modelling
 main
 molecules
 microchips
+markers
+modifications
 various
 volumes
 viruses
@@ -3189,6 +3244,7 @@ validation
 valued
 vanadium
 vehicle
+visuals
 large
 lightweight
 low
@@ -3444,6 +3500,10 @@ Maximum
 Modulus
 Malleability
 Mixtures
+Mediums
+Modeling
+MarvelApp
+Microsoft
 Structure
 Select
 Small
@@ -3596,6 +3656,12 @@ Saturation
 Structured
 Silicon
 Stainless
+SketchApp
+Sketches
+Sparks
+Streamlines
+Skill
+Share
 Generate
 Gather
 Graphics
@@ -3679,6 +3745,8 @@ Begin
 Brittleness
 Breaks
 Brittle
+Balsamiq
+Blender
 Optimize
 Organize
 Or
@@ -3899,6 +3967,8 @@ Internal
 Innovating
 Idea
 Industry
+Illustrator
+InVision
 Logically
 Linearly
 Learning
@@ -3949,6 +4019,7 @@ Limit
 Law
 LEGO
 Leverage
+Levels
 quickly
 quality
 qL
@@ -4112,6 +4183,7 @@ glimmer
 grasp
 graphical
 goods
+gradually
 young
 yellow
 you

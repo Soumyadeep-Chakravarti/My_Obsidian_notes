@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
+                "file": "1. Rough Notes/Stress-Strain Diagrams.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prototyping in Engineering Design"
+              "title": "Stress-Strain Diagrams"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 318.5
   },
   "right": {
     "id": "8eccac109bbb2aec",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
+                "file": "1. Rough Notes/Stress-Strain Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prototyping in Engineering Design"
+              "title": "Backlinks for Stress-Strain Diagrams"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
+                "file": "1. Rough Notes/Stress-Strain Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prototyping in Engineering Design"
+              "title": "Outgoing links from Stress-Strain Diagrams"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md"
+                "file": "1. Rough Notes/Stress-Strain Diagrams.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Prototyping in Engineering Design"
+              "title": "Outline of Stress-Strain Diagrams"
             }
           },
           {
@@ -198,16 +198,19 @@
   },
   "active": "ffb0dbecf0942f24",
   "lastOpenFiles": [
-    "6. Main Notes/STUDYS/EDM/EDM MODULE 4 STUDY NOTES.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Materials and Modelling.md",
     "6. Main Notes/STUDYS/EDM/EDM MODULE 5 STUDY NOTES.md",
-    "1. Rough Notes/Mechanical Properties of Materials.md",
+    "1. Rough Notes/Stress-Strain Diagrams.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Mechanical Properties of Materials.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Sketching and Visualization.md",
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 4 STUDY NOTES.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
+    "6. Main Notes/STUDYS/EDM/Example for Sustainable Design.md",
+    "6. Main Notes/STUDYS/EDM/K-script.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Materials and Modelling.md",
     "6. Main Notes/STUDYS/EDM/Topics/Stress and Strain.md",
     "6. Main Notes/STUDYS/EDM/Topics/Concept Generation in Design.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Sketching and Visualization.md",
     "6. Main Notes/STUDYS/EDM/Topics/Effective Communication in Design.md",
     "6. Main Notes/STUDYS/EDM/Topics/Creativity and Problem Solving.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
     "6. Main Notes/STUDYS/EDM/EDM MODULE 3 STUDY NOTES.md",
     "6. Main Notes/STUDYS/EDM/Topics/Understanding Metaphors in Design.md",
     "6. Main Notes/STUDYS/EDM/EDM MODULE 1 STUDY NOTES.md",
@@ -220,9 +223,6 @@
     "6. Main Notes/STUDYS/EDM/Topics/Design for Environment (DfE).md",
     "6. Main Notes/STUDYS/EDM/Topics/Role of Design in Sustainability.md",
     "6. Main Notes/STUDYS/EDM/Topics/Social Innovation.md",
-    "6. Main Notes/STUDYS/EDM/Topics/UN Sustainable Development Goals (SDGs).md",
-    "6. Main Notes/STUDYS/EDM/Topics/Environmental Crisis.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Sustainable Design.md",
-    "6. Main Notes/STUDYS/EDM/EDM MODULE 2 STUDY NOTES.md"
+    "6. Main Notes/STUDYS/EDM/Topics/UN Sustainable Development Goals (SDGs).md"
   ]
 }
