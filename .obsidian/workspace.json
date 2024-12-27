@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "right": {
     "id": "ba17855df6f303ae",
@@ -161,8 +161,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -187,11 +187,18 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "smart-random-note:Open Random Note from Search": false,
+      "gnome-terminal-loader:Gnome Terminal": false,
+      "gnome-terminal-loader:main.py (Gnome Terminal)": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "brain-dump-mode:Activate Brain Dump Mode": false
     }
   },
+<<<<<<< HEAD
   "active": "d8980fd061751f83",
+=======
+  "active": "27edf452de843e7a",
+>>>>>>> 5020e478299b0ec6c00cfda157ae2e583bb3d587
   "lastOpenFiles": [
     "6. Main Notes/STUDYS/Programming in Java/Unit 5 Database Applications with JDBC and JPA.md",
     "6. Main Notes/STUDYS/Programming in Java/Unit 4 Java Collections and IO Streams.md",
