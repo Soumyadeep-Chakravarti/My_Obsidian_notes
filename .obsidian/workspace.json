@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8acf8cc67661629",
+        "id": "c0fa66ee4a3e9e04",
         "type": "tabs",
         "children": [
           {
-            "id": "d0428e8864ebd46f",
+            "id": "d8980fd061751f83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Main Notes/STUDYS/EDM/EDM MODULE 2 STUDY NOTES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "EDM MODULE 2 STUDY NOTES"
+              "title": "New tab"
             }
           }
         ]
@@ -179,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "brain-dump-mode:Activate Brain Dump Mode": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
@@ -195,8 +191,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0428e8864ebd46f",
+  "active": "d8980fd061751f83",
   "lastOpenFiles": [
+    "6. Main Notes/STUDYS/Programming in Java/Unit 5 Database Applications with JDBC and JPA.md",
+    "6. Main Notes/STUDYS/Programming in Java/Unit 4 Java Collections and IO Streams.md",
+    "6. Main Notes/STUDYS/Programming in Java/Unit 1 Java Introduction and Flow Control.md",
+    "6. Main Notes/STUDYS/Programming in Java/Unit 2 Java Object-Oriented Programming.md",
+    "6. Main Notes/STUDYS/Programming in Java/Unit 3 Exception Handling and Multithreading.md",
+    "6. Main Notes/STUDYS/Programming in Java",
+    "6. Main Notes/STUDYS/EDM/Topics/Engineering Design and Modelling.md",
     "6. Main Notes/STUDYS/EDM/EDM MODULE 1 STUDY NOTES.md",
     "6. Main Notes/STUDYS/EDM/EDM MODULE 2 STUDY NOTES.md",
     "6. Main Notes/STUDYS/EDM/Topics/Enhancing Creativity.md",
@@ -206,7 +209,6 @@
     "1. Rough Notes/Linear Transformation Formulas.md",
     "6. Main Notes/STUDYS/EDM/Topics/Tools for Design Thinking.md",
     "6. Main Notes/STUDYS/EDM/Topics/Human-Centered Design (HCD).md",
-    "6. Main Notes/STUDYS/EDM/Topics/Engineering Design and Modelling.md",
     "6. Main Notes/STUDYS/EDM/Topics/Types of Design.md",
     "6. Main Notes/STUDYS/EDM/Topics/Dieter Rams' Ten Principles of Good Design.md",
     "1. Rough Notes/Engineering Design and Modelling(Detailed.md",
@@ -219,11 +221,6 @@
     "1. Rough Notes/2024-12-17-math-class.md",
     "1. Rough Notes/2024-12-20-DSA-Class.md",
     "1. Rough Notes/UX Design.md",
-    "1. Rough Notes/Usability Testing.md",
-    "1. Rough Notes/Untitled 3.md",
-    "1. Rough Notes/Untitled 2.md",
-    "1. Rough Notes/Untitled 1.md",
-    "1. Rough Notes/Untitled.md",
     "Types of Linear transformation.pdf",
     "6. Main Notes/STUDYS/EDM",
     "Pasted image 20241128144403.png",
@@ -233,7 +230,6 @@
     "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches/121212.png",
     "6. Main Notes/PROJECTS/Novalflow",
     "6. Main Notes/My Poems",
-    "6. Main Notes/STUDYS/DLC/Presentation",
-    "6. Main Notes/NSS"
+    "6. Main Notes/STUDYS/DLC/Presentation"
   ]
 }
