@@ -1,20 +1,25 @@
 {
   "main": {
-    "id": "ed68aaaa010eb188",
+    "id": "c94b7711f87e05e1",
     "type": "split",
     "children": [
       {
-        "id": "c0fa66ee4a3e9e04",
+        "id": "84ec0eb7718665a1",
         "type": "tabs",
         "children": [
           {
-            "id": "d8980fd061751f83",
+            "id": "ffb0dbecf0942f24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prototyping in Engineering Design"
             }
           }
         ]
@@ -23,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dd9d90559663c0bc",
+    "id": "b924fed8d37c8b06",
     "type": "split",
     "children": [
       {
-        "id": "62773789e368577c",
+        "id": "ea650cd3daf70897",
         "type": "tabs",
         "children": [
           {
-            "id": "27edf452de843e7a",
+            "id": "efb2344a4a56e13d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +48,12 @@
             }
           },
           {
-            "id": "64d1b171968c85e2",
+            "id": "df9799e6844a5e17",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1a1a1a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +65,7 @@
             }
           },
           {
-            "id": "c326f31988335a1d",
+            "id": "70bc347895e123b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 356.5
   },
   "right": {
-    "id": "ba17855df6f303ae",
+    "id": "8eccac109bbb2aec",
     "type": "split",
     "children": [
       {
-        "id": "e997bb99da536f8c",
+        "id": "c54b9223559e3165",
         "type": "tabs",
         "children": [
           {
-            "id": "b6fc84af68a8b209",
+            "id": "b5a5e09fb934e54c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
+                "file": "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Color Schemes"
+              "title": "Backlinks for Prototyping in Engineering Design"
             }
           },
           {
-            "id": "1f6044830fb5cda6",
+            "id": "ddfc5722c494e780",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md",
+                "file": "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Color Schemes"
+              "title": "Outgoing links from Prototyping in Engineering Design"
             }
           },
           {
-            "id": "13b2f06c79c306ab",
+            "id": "cd83ada3b62d3383",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,19 +135,7 @@
             }
           },
           {
-            "id": "6328f3eb31d50173",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "6. Main Notes/PROJECTS/Novaflow/Frontend/Color Schemes.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Color Schemes"
-            }
-          },
-          {
-            "id": "76d1fae5541cc236",
+            "id": "d336b27d31aee4fa",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,13 +149,25 @@
             }
           },
           {
-            "id": "14e81336c8d0147a",
+            "id": "e09a8ad0b12d2f41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prototyping in Engineering Design"
+            }
+          },
+          {
+            "id": "68eb00e58c48a553",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -174,69 +179,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "brain-dump-mode:Activate Brain Dump Mode": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
       "smart-random-note:Open Random Note from Search": false,
-      "gnome-terminal-loader:Gnome Terminal": false,
-      "gnome-terminal-loader:main.py (Gnome Terminal)": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "brain-dump-mode:Activate Brain Dump Mode": false
     }
   },
-<<<<<<< HEAD
-  "active": "d8980fd061751f83",
-=======
-  "active": "27edf452de843e7a",
->>>>>>> 5020e478299b0ec6c00cfda157ae2e583bb3d587
+  "active": "ffb0dbecf0942f24",
   "lastOpenFiles": [
-    "6. Main Notes/STUDYS/Programming in Java/Unit 5 Database Applications with JDBC and JPA.md",
-    "6. Main Notes/STUDYS/Programming in Java/Unit 4 Java Collections and IO Streams.md",
-    "6. Main Notes/STUDYS/Programming in Java/Unit 1 Java Introduction and Flow Control.md",
-    "6. Main Notes/STUDYS/Programming in Java/Unit 2 Java Object-Oriented Programming.md",
-    "6. Main Notes/STUDYS/Programming in Java/Unit 3 Exception Handling and Multithreading.md",
-    "6. Main Notes/STUDYS/Programming in Java",
-    "6. Main Notes/STUDYS/EDM/Topics/Engineering Design and Modelling.md",
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 4 STUDY NOTES.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Materials and Modelling.md",
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 5 STUDY NOTES.md",
+    "1. Rough Notes/Mechanical Properties of Materials.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Stress and Strain.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Concept Generation in Design.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Sketching and Visualization.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Effective Communication in Design.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Creativity and Problem Solving.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Prototyping in Engineering Design.md",
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 3 STUDY NOTES.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Understanding Metaphors in Design.md",
     "6. Main Notes/STUDYS/EDM/EDM MODULE 1 STUDY NOTES.md",
-    "6. Main Notes/STUDYS/EDM/EDM MODULE 2 STUDY NOTES.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Enhancing Creativity.md",
-    "6. Main Notes/STUDYS/EDM/Topics",
-    "1. Rough Notes/Customer Co-Creation.md",
-    "1. Rough Notes/Design Usability.md",
-    "1. Rough Notes/Linear Transformation Formulas.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Tools for Design Thinking.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Human-Centered Design (HCD).md",
-    "6. Main Notes/STUDYS/EDM/Topics/Types of Design.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Dieter Rams' Ten Principles of Good Design.md",
-    "1. Rough Notes/Engineering Design and Modelling(Detailed.md",
-    "1. Rough Notes/Engineering.md",
-    "6. Main Notes/STUDYS/Applied Linear Algebra/Types of Linear transformation.md",
-    "6. Main Notes/STUDYS/Applied Linear Algebra/Vector Space.md",
-    "6. Main Notes/STUDYS/EDM/K-script.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Biomimicry.md",
+    "6. Main Notes/My Poems/To Answer an Age-Old Question.md",
+    "6. Main Notes/My Poems/To be Young Again.md",
     "6. Main Notes/My Poems/A Quiet Horizon.md",
-    "1. Rough Notes/2024-12-21.md",
-    "1. Rough Notes/2024-12-17-math-class.md",
-    "1. Rough Notes/2024-12-20-DSA-Class.md",
-    "1. Rough Notes/UX Design.md",
-    "Types of Linear transformation.pdf",
-    "6. Main Notes/STUDYS/EDM",
-    "Pasted image 20241128144403.png",
-    "6. Main Notes/STUDYS/Applied Linear Algebra",
-    "6. Main Notes/PROJECTS/LeetCode Solutions",
-    "3. Tags/Projects",
-    "6. Main Notes/PROJECTS/Novaflow/Frontend/Color_swatches/121212.png",
-    "6. Main Notes/PROJECTS/Novalflow",
-    "6. Main Notes/My Poems",
-    "6. Main Notes/STUDYS/DLC/Presentation"
+    "1. Rough Notes/Usability Testing.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Engineering Design and Modelling.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Design for Environment (DfE).md",
+    "6. Main Notes/STUDYS/EDM/Topics/Role of Design in Sustainability.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Social Innovation.md",
+    "6. Main Notes/STUDYS/EDM/Topics/UN Sustainable Development Goals (SDGs).md",
+    "6. Main Notes/STUDYS/EDM/Topics/Environmental Crisis.md",
+    "6. Main Notes/STUDYS/EDM/Topics/Sustainable Design.md",
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 2 STUDY NOTES.md"
   ]
 }
