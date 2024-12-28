@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "84ec0eb7718665a1",
+        "id": "514194f854ea5bad",
         "type": "tabs",
         "children": [
           {
-            "id": "ffb0dbecf0942f24",
+            "id": "97d7cee6f666f2f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Main Notes/STUDYS/EDM/Q10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Q10"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8eccac109bbb2aec",
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Main Notes/STUDYS/EDM/Q10.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Q10"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Main Notes/STUDYS/EDM/Q10.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Q10"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -154,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Main Notes/STUDYS/EDM/Q10.md"
+                "file": "Untitled.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Q10"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -193,14 +189,30 @@
       "smart-random-note:Open Random Note from Search": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "brain-dump-mode:Activate Brain Dump Mode": false
+      "brain-dump-mode:Activate Brain Dump Mode": false,
+      "voice:Voice": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "efb2344a4a56e13d",
+  "active": "97d7cee6f666f2f9",
   "lastOpenFiles": [
-    "2. Source Materials/Studies/EDM/Pasted image 20241227234814.png",
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 1 STUDY NOTES.md",
     "6. Main Notes/STUDYS/EDM/EDM.md",
+    "Untitled.canvas",
+    "7. Export/Studies/EDM/EDM MODULE 1 STUDY NOTES.pdf",
+    "6. Main Notes/STUDYS/EDM/Topics/Dieter Rams' Ten Principles of Good Design.md",
+    "7. Export/Studies/EDM/Dieter Rams' Ten Principles of Good Design.pdf",
+    "6. Main Notes/STUDYS/EDM/Topics/Engineering Design and Modelling.md",
+    "7. Export/Studies/EDM/Engineering Design and Modelling.pdf",
+    "6. Main Notes/STUDYS/EDM/Topics/Human-Centered Design (HCD).md",
+    "7. Export/Studies/EDM",
+    "7. Export/Studies/New folder",
+    "7. Export/Studies",
+    "7. Export/New folder",
+    "7. Export",
+    "New folder",
     "6. Main Notes/STUDYS/EDM/Q10.md",
+    "2. Source Materials/Studies/EDM/Pasted image 20241227234814.png",
     "6. Main Notes/STUDYS/EDM/Q9.md",
     "2. Source Materials/Studies/EDM/Pasted image 20241227234642.png",
     "6. Main Notes/STUDYS/EDM/Q8.md",
@@ -220,9 +232,7 @@
     "2. Source Materials/Studies/EDM/Pasted image 20241227232841.png",
     "6. Main Notes/STUDYS/Programming in Java/Unit 2 Java Object-Oriented Programming.md",
     "6. Main Notes/STUDYS/EDM/Q1.md",
-    "2. Source Materials/Studies/EDM/Pasted image 20241227232432.png",
     "2. Source Materials/Studies/EDM",
-    "2. Source Materials/Studies/New folder",
     "6. Main Notes/STUDYS/EDM/Example Question Paper.md",
     "3. Tags/Projects/Project-Novaflow.md",
     "6. Main Notes/My Poems/My Poems.md",
@@ -231,10 +241,6 @@
     "6. Main Notes/STUDYS/Programming in Java/Java.md",
     "6. Main Notes/STUDYS/Programming in Java/Unit 1 Java Introduction and Flow Control.md",
     "6. Main Notes/STUDYS/Programming in Java/Unit 3 Exception Handling and Multithreading.md",
-    "6. Main Notes/STUDYS/EDM/EDM MODULE 3 STUDY NOTES.md",
-    "3. Tags/student_study.md",
-    "3. Tags/Template.md",
-    "5. Templates/Full Note.md",
-    "6. Main Notes/STUDYS/EDM/Topics/Stress-Strain Diagrams.md"
+    "6. Main Notes/STUDYS/EDM/EDM MODULE 3 STUDY NOTES.md"
   ]
 }

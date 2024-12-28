@@ -50,7 +50,7 @@
 
 ---
 
-# **[Human-Centered Design (HCD)**](Human-Centered%20Design%20(HCD).md)
+# **[Human-Centered Design (HCD)](Human-Centered%20Design%20(HCD).md)**
 
 **Phases**:
 
