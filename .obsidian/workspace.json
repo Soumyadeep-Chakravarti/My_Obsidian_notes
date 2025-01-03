@@ -11,10 +11,30 @@
             "id": "97d7cee6f666f2f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/STUDYS/Computer Networks/Topics/Networking Goals.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Networking Goals"
+            }
+          },
+          {
+            "id": "8d5df8184e66d91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/STUDYS/Computer Networks/Computer Networks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Networks"
             }
           }
         ]
@@ -189,58 +209,57 @@
       "smart-random-note:Open Random Note from Search": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "brain-dump-mode:Activate Brain Dump Mode": false,
-      "voice:Voice": false,
-      "obsidian-tts:Text to Speech": false
+      "brain-dump-mode:Activate Brain Dump Mode": false
     }
   },
   "active": "97d7cee6f666f2f9",
   "lastOpenFiles": [
-    "6. Main Notes/STUDYS/EDM/EDM MODULE 1 STUDY NOTES.md",
+    "6. Main Notes/STUDYS/Computer Networks/Computer Networks Module 1 Study Notes.md",
+    "6. Main Notes/STUDYS/Computer Networks/Computer Networks.md",
+    "1. Rough Notes/Computer Networks Q4.md",
+    "3. Tags/Template.md",
+    "3. Tags/student_study.md",
+    "6. Main Notes/Index.md",
     "6. Main Notes/STUDYS/EDM/EDM.md",
+    "6. Main Notes/STUDYS/Computer Networks/Computer Networks Module 5 Study Notes.md",
+    "1. Rough Notes/Recent Trends in Network Security.md",
+    "1. Rough Notes/Recent Trends in Computer Networks.d.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Principles of Networking Applications.md",
+    "6. Main Notes/STUDYS/Computer Networks/Computer Networks Module 4 Study Notes.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Integrated Services.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Techniques to Improve QoS.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Quality of Service (QoS).md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Congestion Prevention Policies.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Congestion Control Techniquesmd.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Transmission Control Protocol (TCP).md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/User Datagram Protocol (UDP).md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Transport Layer - Services Multiplexing and Demultiplexing Process-to-Process Delivery.md",
+    "1. Rough Notes/2025-01-03.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Local Area Network (LAN) and Ethernet.md",
+    "6. Main Notes/STUDYS/Computer Networks/Computer Networks Module 3 Study Notes.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Internet Protocols.md",
+    "6. Main Notes/STUDYS/Computer Networks/Computer Networks Module 2 Study Notes.md",
+    "6. Main Notes/STUDYS/Computer Networks/Topics/Guided Transmission Media.md",
+    "TCP",
+    "6. Main Notes/STUDYS/Computer Networks/Topics",
+    "6. Main Notes/STUDYS/Computer Networks",
     "Untitled.canvas",
     "7. Export/Studies/EDM/EDM MODULE 1 STUDY NOTES.pdf",
-    "6. Main Notes/STUDYS/EDM/Topics/Dieter Rams' Ten Principles of Good Design.md",
     "7. Export/Studies/EDM/Dieter Rams' Ten Principles of Good Design.pdf",
-    "6. Main Notes/STUDYS/EDM/Topics/Engineering Design and Modelling.md",
     "7. Export/Studies/EDM/Engineering Design and Modelling.pdf",
-    "6. Main Notes/STUDYS/EDM/Topics/Human-Centered Design (HCD).md",
     "7. Export/Studies/EDM",
     "7. Export/Studies/New folder",
     "7. Export/Studies",
     "7. Export/New folder",
-    "7. Export",
-    "New folder",
-    "6. Main Notes/STUDYS/EDM/Q10.md",
     "2. Source Materials/Studies/EDM/Pasted image 20241227234814.png",
-    "6. Main Notes/STUDYS/EDM/Q9.md",
     "2. Source Materials/Studies/EDM/Pasted image 20241227234642.png",
-    "6. Main Notes/STUDYS/EDM/Q8.md",
     "2. Source Materials/Studies/EDM/Pasted image 20241227234500.png",
-    "6. Main Notes/STUDYS/EDM/Q7.md",
     "2. Source Materials/Studies/EDM/Pasted image 20241227234340.png",
-    "6. Main Notes/STUDYS/EDM/Q6.md",
-    "6. Main Notes/STUDYS/EDM/Q5.md",
     "2. Source Materials/Studies/EDM/Pasted image 20241227233847.png",
-    "6. Main Notes/STUDYS/EDM/Q4.md",
     "2. Source Materials/Studies/EDM/Pasted image 20241227233701.png",
     "2. Source Materials/Studies/EDM/Pasted image 20241227233549.png",
-    "6. Main Notes/STUDYS/EDM/Q3.md",
     "2. Source Materials/Studies/EDM/Pasted image 20241227233421.png",
     "2. Source Materials/Studies/EDM/Pasted image 20241227233224.png",
-    "6. Main Notes/STUDYS/EDM/Q2.md",
-    "2. Source Materials/Studies/EDM/Pasted image 20241227232841.png",
-    "6. Main Notes/STUDYS/Programming in Java/Unit 2 Java Object-Oriented Programming.md",
-    "6. Main Notes/STUDYS/EDM/Q1.md",
-    "2. Source Materials/Studies/EDM",
-    "6. Main Notes/STUDYS/EDM/Example Question Paper.md",
-    "3. Tags/Projects/Project-Novaflow.md",
-    "6. Main Notes/My Poems/My Poems.md",
-    "6. Main Notes/My Poems/To be Young Again.md",
-    "6. Main Notes/Index.md",
-    "6. Main Notes/STUDYS/Programming in Java/Java.md",
-    "6. Main Notes/STUDYS/Programming in Java/Unit 1 Java Introduction and Flow Control.md",
-    "6. Main Notes/STUDYS/Programming in Java/Unit 3 Exception Handling and Multithreading.md",
-    "6. Main Notes/STUDYS/EDM/EDM MODULE 3 STUDY NOTES.md"
+    "2. Source Materials/Studies/EDM/Pasted image 20241227232841.png"
   ]
 }
