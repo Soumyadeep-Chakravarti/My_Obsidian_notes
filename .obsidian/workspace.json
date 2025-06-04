@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "343659e2d109ebb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c739b17e861402e4",
+        "type": "tabs",
+        "dimension": 56.388206388206385,
+        "children": [
+          {
+            "id": "67b98a4362e2f247",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Project Notes/CLI Library C"
+              },
+              "icon": "lucide-file",
+              "title": "CLI Library C"
+            }
+          },
+          {
+            "id": "f2b0c49326119264",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Calendar"
+              },
+              "icon": "lucide-file",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6350d25d838e1c7b",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dc9070be21161ae0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Calendar"
+              },
+              "icon": "lucide-file",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "3b2f105b81cea842",
+        "type": "tabs",
+        "dimension": 43.611793611793615,
+        "children": [
+          {
+            "id": "68dd6598d51c9ec3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/home/sammy/Desktop/Notes/Obsidian-Notes/My Personal Notes",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/bash",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true,
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 74,
+                    "data": "\u001b[31;1m            .-/+oossssoo+/-.\u001b[15Csammy\u001b[0m@\u001b[31;1msammy-Dell-G15-5530\u001b[0m \r\n\u001b[31;1m        `:+ssssssssssssssssss+:`\u001b[11C\u001b[0m------------------------- \r\n\u001b[31;1m      -+ssssssssssssssssssyyssss+-\u001b[9COS\u001b[0m: Ubuntu 24.04.2 LTS x86_64 \r\n\u001b[31;1m    .ossssssssssssssssss\u001b[39mdMMMNy\u001b[31msssso.\u001b[7CHost\u001b[0m: Dell G15 5530 \r\n\u001b[31;1m   /sssssssssss\u001b[39mhdmmNNmmyNMMMMh\u001b[31mssssss/\u001b[6CKernel\u001b[0m: 6.11.0-26-generic \r\n\u001b[31;1m  +sssssssss\u001b[39mhm\u001b[31myd\u001b[39mMMMMMMMNddddy\u001b[31mssssssss+\u001b[5CUptime\u001b[0m: 1 hour, 51 mins \r\n\u001b[31;1m /ssssssss\u001b[39mhNMMM\u001b[31myh\u001b[39mhyyyyhmNMMMNh\u001b[31mssssssss/\u001b[4CPackages\u001b[0m: 3208 (dpkg), 21 (snap) \r\n\u001b[31;1m.ssssssss\u001b[39mdMMMNh\u001b[31mssssssssss\u001b[39mhNMMMd\u001b[31mssssssss.\u001b[3CShell\u001b[0m: bash 5.2.21 \r\n\u001b[31;1m+ssss\u001b[39mhhhyNMMNy\u001b[31mssssssssssss\u001b[39myNMMMy\u001b[31msssssss+\u001b[3CResolution\u001b[0m: 1920x1080 \r\n\u001b[31;1moss\u001b[39myNMMMNyMMh\u001b[31mssssssssssssss\u001b[39mhmmmh\u001b[31mssssssso\u001b[3CWM\u001b[0m: i3 \r\n\u001b[31;1moss\u001b[39myNMMMNyMMh\u001b[31msssssssssssssshmmmhssssssso\u001b[3CCPU\u001b[0m: 13th Gen Intel i7-13650HX (20) @ 4 \r\n\u001b[31;1m+ssss\u001b[39mhhhyNMMNy\u001b[31mssssssssssss\u001b[39myNMMMy\u001b[31msssssss+\u001b[3CGPU\u001b[0m: Intel Raptor Lake-S UHD Graphics \r\n\u001b[31;1m.ssssssss\u001b[39mdMMMNh\u001b[31mssssssssss\u001b[39mhNMMMd\u001b[31mssssssss.\u001b[3CGPU\u001b[0m: NVIDIA GeForce RTX 3050 6GB Laptop \r\n\u001b[31;1m /ssssssss\u001b[39mhNMMM\u001b[31myh\u001b[39mhyyyyhdNMMMNh\u001b[31mssssssss/\u001b[4CMemory\u001b[0m: 3222MiB / 15674MiB \r\n\u001b[31;1m  +sssssssss\u001b[39mdm\u001b[31myd\u001b[39mMMMMMMMMddddy\u001b[31mssssssss+\r\n   /sssssssssss\u001b[39mhdmNNNNmyNMMMMh\u001b[31mssssss/\r\n    .ossssssssssssssssss\u001b[39mdMMMNy\u001b[31msssso.\r\n      -+sssssssssssssssss\u001b[39myyy\u001b[31mssss+-\r\n        `:+ssssssssssssssssss+:`\r\n            .-/+oossssoo+/-.\r\n\r\n\u001b[0mWelcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[0m for instructions on how to use fish\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mla\r\ntotal 28K\r\ndrwxrwxr-x 3 sammy sammy 4.0K Jun  4 14:24  \u001b[34;1mCalendar\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 13:26  \u001b[34;1m.makemd\u001b[0m/\r\ndrwxrwxr-x 5 sammy sammy 4.0K Jun  4 13:33  \u001b[34;1m.obsidian\u001b[0m/\r\ndrwxrwxr-x 4 sammy sammy 4.0K Jun  4 14:28 \u001b[34;1m'Project Notes'\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 13:59  \u001b[34;1m.space\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 13:26  \u001b[34;1mTags\u001b[0m/\r\ndrwxrwxr-x 4 sammy sammy 4.0K Jun  4 14:09  \u001b[34;1m.trash\u001b[0m/\r\n-rw-rw-r-- 1 sammy sammy    0 Jun  4 13:59  Vault.md\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mnvim \u001b[36;4mVault.md\u001b[24m \r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mgit \u001b[36minit\r\n\u001b[33mhint: Using 'master' as the name for the initial branch. This default branch name\r\nhint: is subject to change. To configure the initial branch name to use in all\r\nhint: of your new repositories, which will suppress this warning, call:\r\nhint: \r\nhint: \u001b[2Cgit config --global init.defaultBranch <name>\r\nhint: \r\nhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and\r\nhint: 'development'. The just-created branch can be renamed via this command:\r\nhint: \r\nhint: \u001b[2Cgit branch -m <name>\r\n\u001b[0mInitialized empty Git repository in /home/sammy/Desktop/Notes/Obsidian-Notes/My Personal Notes/.git/\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mgit \u001b[36mremote add origin git@github.com:Soumyadeep-Chak\r\nravarti/My_Obsidian_notes.git\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mgit \u001b[36madd \u001b[4m.\r\n\u001b[0m",
+                    "rows": 55
+                  }
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: My Personal Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20c71f9cbed115ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f0de189d8c511a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c66ac2d444364ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9fdf55d3e8db274b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e242164c87839bb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7a40cef47a0dcacd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "right": {
+    "id": "53abf2e5b93ae417",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d9f944677440ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c8461843ad486f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d56f2955dad08953",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "90e89e340bbb5159",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "311acc22fc956db9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "03de5733b1083653",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "6d1b1278757eb0d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "terminal:Open terminal": false,
+      "abbreviations-mark:List abbreviations": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "68dd6598d51c9ec3",
+  "lastOpenFiles": [
+    "Calendar/Calendar.md",
+    "Calendar/2025-06-04 Class.md",
+    "Vault.md",
+    "Tags/Tags.md",
+    "Project Notes/Project Notes.md",
+    "Project Notes/CLI Library C/Features/Features.md",
+    "Project Notes/CLI Library C/Features",
+    "Project Notes/CLI Library C/Core Functionalities/Core Functionalities.md",
+    "Project Notes/CLI Library C/Core Functionalities",
+    "Project Notes/CLI Library C/CLI Library C.md",
+    "Project Notes/CLI Library C",
+    "Project Notes",
+    "Calendar",
+    "Untitled.md",
+    "CLI-LIbrary-Notes/CLI-LIbrary-Notes.md",
+    "DB/DB.md",
+    "DB/My Projects.md",
+    "DB",
+    "CLI-LIbrary-Notes/Main.md",
+    "CLI-LIbrary-Notes/Core Portion/Main Core.md",
+    "CLI-LIbrary-Notes/Core Portion/Core Portion.md",
+    "CLI-LIbrary-Notes/Core Portion",
+    "CLI-LIbrary-Notes/Untitled.md",
+    "CLI-LIbrary-Notes",
+    "Tags",
+    "Welcome.md"
+  ]
+}
