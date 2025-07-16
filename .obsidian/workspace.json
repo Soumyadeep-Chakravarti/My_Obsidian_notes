@@ -6,6 +6,7 @@
       {
         "id": "af784bea026bdf00",
         "type": "tabs",
+        "dimension": 63.28871892925431,
         "children": [
           {
             "id": "787830289f041c00",
@@ -13,35 +14,63 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/SEM 6/IMPORTANT/Time Table.md",
+                "file": "College/SEM 6/CSD3009/Recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time Table"
-            },
-            "group": "4c22a4359d0d0c0a"
+              "title": "Recursion"
+            }
           }
         ]
       },
       {
-        "id": "24e91c7ccb94938d",
+        "id": "317c0ad10c52f04b",
         "type": "tabs",
+        "dimension": 36.7112810707457,
         "children": [
           {
-            "id": "8926ec617a79f0d7",
+            "id": "479023e32f4b2e4b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "terminal:terminal",
               "state": {
-                "file": "College/SEM 6/IMPORTANT/Time Table.md",
-                "mode": "preview",
-                "source": false
+                "terminal:terminal": {
+                  "cwd": "/home/sammy/Desktop/Notes/Obsidian-Notes/My Personal Notes",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/bash",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true,
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 60,
+                    "data": "\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mla\r\ntotal 48K\r\ndrwxrwxr-x 4 sammy sammy 4.0K Jul  7 15:50  \u001b[34;1mBudgetting\u001b[0m/\r\ndrwxrwxr-x 3 sammy sammy 4.0K Jul  2 02:23  \u001b[34;1mCalendar\u001b[0m/\r\ndrwxrwxr-x 4 sammy sammy 4.0K Jul  2 02:24  \u001b[34;1mCollege\u001b[0m/\r\ndrwxrwxr-x 8 sammy sammy 4.0K Jul 16 18:43  \u001b[34;1m.git\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 13:26  \u001b[34;1m.makemd\u001b[0m/\r\ndrwxrwxr-x 6 sammy sammy 4.0K Jun  4 18:59  \u001b[34;1m.obsidian\u001b[0m/\r\ndrwxrwxr-x 4 sammy sammy 4.0K Jun  4 14:28 \u001b[34;1m'Project Notes'\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 13:59  \u001b[34;1m.space\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 14:34  \u001b[34;1mTags\u001b[0m/\r\ndrwxrwxr-x 4 sammy sammy 4.0K Jul 16 18:43  \u001b[34;1m.trash\u001b[0m/\r\n-rw-rw-r-- 1 sammy sammy 2.8K Jun  4 19:07  Untitled.md\r\n-rw-rw-r-- 1 sammy sammy   36 Jun  4 14:34  Vault.md\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mcd \u001b[36;4mCollege/SEM\u001b[96m\\ \u001b[36m6/CSD3009/\r\n\u001b[38;2;243;174;53;24m\u001b[38;2;38;43;68;48;2;243;174;53m CSD3009 \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mla\r\ntotal 16K\r\n-rw-rw-r-- 1 sammy sammy 1.5K Jul 16 18:39 BinarySearch.c\r\n-rw-rw-r-- 1 sammy sammy   41 Jul 16 18:09 CSD3009.md\r\n-rw-rw-r-- 1 sammy sammy 3.3K Jul 16 18:40 Recursion.md\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jul 16 18:08 \u001b[34;1m.space\u001b[0m/\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m CSD3009 \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mcd \u001b[36;4m..\r\n\u001b[38;2;243;174;53;24m\u001b[38;2;38;43;68;48;2;243;174;53m SEM 6 \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mcd \u001b[36;4m..\r\n\u001b[38;2;243;174;53;24m\u001b[38;2;38;43;68;48;2;243;174;53m College \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mcd \u001b[36;4m..\r\n\u001b[0m…\u001b[38;2;224;222;244;48;2;240;118;35m \u001b[4mMy Personal Notes\u001b[24m \u001b[38;2;240;118;35;48;2;243;174;53m\u001b[38;2;38;43;68m \u001b[4m\u001b[24m main ≡  ?3 ~27 \u001b[38;2;243;174;53;49m\u001b[38;2;216;30;91;7m\u001b[38;2;224;222;244;48;2;216;30;91;27m CONFIG ERROR \u001b[0m  \r\ngit \u001b[36madd \u001b[4m.\u001b[0m",
+                    "rows": 55
+                  }
+                }
               },
-              "icon": "lucide-file",
-              "title": "Time Table"
-            },
-            "group": "4c22a4359d0d0c0a"
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: fish in My Personal Notes"
+            }
           }
         ]
       }
@@ -97,7 +126,7 @@
             }
           },
           {
-            "id": "fe802c1107741c9c",
+            "id": "c7bc130a1121c3eb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -245,16 +274,22 @@
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "787830289f041c00",
+  "active": "479023e32f4b2e4b",
   "lastOpenFiles": [
+    "College/SEM 6/CSD3009/Recursion.md",
+    "College/SEM 6/CSD3009/BinarySearch.c",
+    "College/SEM 6/CSD3009/CSD3009.md",
+    "College/SEM 6/SEM 6.md",
+    "College/College.md",
+    "College/SEM 6/CSD3009/\"%F\"",
+    "College/SEM 6/CSD3009",
+    "College/SEM 6/IMPORTANT/Time Table.md",
     "College/SEM 6/CSE3015/CSE3015.md",
     "College/SEM 6/CSE3015",
-    "College/SEM 6/SEM 6.md",
-    "College/SEM 6/IMPORTANT/Time Table.md",
-    "College/College.md",
     "Budgetting/Per Month Money IN.md",
     "Budgetting/Tracking/Tracking.md",
     "Budgetting/Tracking",
@@ -280,12 +315,6 @@
     "Calendar/2025-06-27 TOC Paper.md",
     "Calendar/2025-06-26 DBMS Paper.md",
     "Calendar/2025-06-21 Differential Math.md",
-    "Calendar/Calendar.md",
-    "Project Notes/CLI Library C/CLI Library C.md",
-    "Project Notes/Project Notes.md",
-    "Calendar/2025-06-04 Class.md",
-    "Project Notes/CLI Library C/Features",
-    "Project Notes/CLI Library C/Core Functionalities",
-    "Project Notes/CLI Library C"
+    "Calendar/Calendar.md"
   ]
 }
