@@ -4,106 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "c739b17e861402e4",
+        "id": "af784bea026bdf00",
         "type": "tabs",
-        "dimension": 56.388206388206385,
         "children": [
           {
-            "id": "67b98a4362e2f247",
+            "id": "787830289f041c00",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Project Notes/CLI Library C"
+                "file": "College/SEM 6/IMPORTANT/Time Table.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "CLI Library C"
-            }
-          },
-          {
-            "id": "f2b0c49326119264",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Calendar"
-              },
-              "icon": "lucide-file",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "6350d25d838e1c7b",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "dc9070be21161ae0",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Calendar"
-              },
-              "icon": "lucide-file",
-              "title": "Calendar"
-            }
+              "title": "Time Table"
+            },
+            "group": "4c22a4359d0d0c0a"
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "3b2f105b81cea842",
+        "id": "24e91c7ccb94938d",
         "type": "tabs",
-        "dimension": 43.611793611793615,
         "children": [
           {
-            "id": "68dd6598d51c9ec3",
+            "id": "8926ec617a79f0d7",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/sammy/Desktop/Notes/Obsidian-Notes/My Personal Notes",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/bash",
-                    "name": "",
-                    "platforms": {
-                      "darwin": true,
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 74,
-                    "data": "\u001b[31;1m            .-/+oossssoo+/-.\u001b[15Csammy\u001b[0m@\u001b[31;1msammy-Dell-G15-5530\u001b[0m \r\n\u001b[31;1m        `:+ssssssssssssssssss+:`\u001b[11C\u001b[0m------------------------- \r\n\u001b[31;1m      -+ssssssssssssssssssyyssss+-\u001b[9COS\u001b[0m: Ubuntu 24.04.2 LTS x86_64 \r\n\u001b[31;1m    .ossssssssssssssssss\u001b[39mdMMMNy\u001b[31msssso.\u001b[7CHost\u001b[0m: Dell G15 5530 \r\n\u001b[31;1m   /sssssssssss\u001b[39mhdmmNNmmyNMMMMh\u001b[31mssssss/\u001b[6CKernel\u001b[0m: 6.11.0-26-generic \r\n\u001b[31;1m  +sssssssss\u001b[39mhm\u001b[31myd\u001b[39mMMMMMMMNddddy\u001b[31mssssssss+\u001b[5CUptime\u001b[0m: 1 hour, 51 mins \r\n\u001b[31;1m /ssssssss\u001b[39mhNMMM\u001b[31myh\u001b[39mhyyyyhmNMMMNh\u001b[31mssssssss/\u001b[4CPackages\u001b[0m: 3208 (dpkg), 21 (snap) \r\n\u001b[31;1m.ssssssss\u001b[39mdMMMNh\u001b[31mssssssssss\u001b[39mhNMMMd\u001b[31mssssssss.\u001b[3CShell\u001b[0m: bash 5.2.21 \r\n\u001b[31;1m+ssss\u001b[39mhhhyNMMNy\u001b[31mssssssssssss\u001b[39myNMMMy\u001b[31msssssss+\u001b[3CResolution\u001b[0m: 1920x1080 \r\n\u001b[31;1moss\u001b[39myNMMMNyMMh\u001b[31mssssssssssssss\u001b[39mhmmmh\u001b[31mssssssso\u001b[3CWM\u001b[0m: i3 \r\n\u001b[31;1moss\u001b[39myNMMMNyMMh\u001b[31msssssssssssssshmmmhssssssso\u001b[3CCPU\u001b[0m: 13th Gen Intel i7-13650HX (20) @ 4 \r\n\u001b[31;1m+ssss\u001b[39mhhhyNMMNy\u001b[31mssssssssssss\u001b[39myNMMMy\u001b[31msssssss+\u001b[3CGPU\u001b[0m: Intel Raptor Lake-S UHD Graphics \r\n\u001b[31;1m.ssssssss\u001b[39mdMMMNh\u001b[31mssssssssss\u001b[39mhNMMMd\u001b[31mssssssss.\u001b[3CGPU\u001b[0m: NVIDIA GeForce RTX 3050 6GB Laptop \r\n\u001b[31;1m /ssssssss\u001b[39mhNMMM\u001b[31myh\u001b[39mhyyyyhdNMMMNh\u001b[31mssssssss/\u001b[4CMemory\u001b[0m: 3222MiB / 15674MiB \r\n\u001b[31;1m  +sssssssss\u001b[39mdm\u001b[31myd\u001b[39mMMMMMMMMddddy\u001b[31mssssssss+\r\n   /sssssssssss\u001b[39mhdmNNNNmyNMMMMh\u001b[31mssssss/\r\n    .ossssssssssssssssss\u001b[39mdMMMNy\u001b[31msssso.\r\n      -+sssssssssssssssss\u001b[39myyy\u001b[31mssss+-\r\n        `:+ssssssssssssssssss+:`\r\n            .-/+oossssoo+/-.\r\n\r\n\u001b[0mWelcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[0m for instructions on how to use fish\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mla\r\ntotal 28K\r\ndrwxrwxr-x 3 sammy sammy 4.0K Jun  4 14:24  \u001b[34;1mCalendar\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 13:26  \u001b[34;1m.makemd\u001b[0m/\r\ndrwxrwxr-x 5 sammy sammy 4.0K Jun  4 13:33  \u001b[34;1m.obsidian\u001b[0m/\r\ndrwxrwxr-x 4 sammy sammy 4.0K Jun  4 14:28 \u001b[34;1m'Project Notes'\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 13:59  \u001b[34;1m.space\u001b[0m/\r\ndrwxrwxr-x 2 sammy sammy 4.0K Jun  4 13:26  \u001b[34;1mTags\u001b[0m/\r\ndrwxrwxr-x 4 sammy sammy 4.0K Jun  4 14:09  \u001b[34;1m.trash\u001b[0m/\r\n-rw-rw-r-- 1 sammy sammy    0 Jun  4 13:59  Vault.md\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mnvim \u001b[36;4mVault.md\u001b[24m \r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mgit \u001b[36minit\r\n\u001b[33mhint: Using 'master' as the name for the initial branch. This default branch name\r\nhint: is subject to change. To configure the initial branch name to use in all\r\nhint: of your new repositories, which will suppress this warning, call:\r\nhint: \r\nhint: \u001b[2Cgit config --global init.defaultBranch <name>\r\nhint: \r\nhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and\r\nhint: 'development'. The just-created branch can be renamed via this command:\r\nhint: \r\nhint: \u001b[2Cgit branch -m <name>\r\n\u001b[0mInitialized empty Git repository in /home/sammy/Desktop/Notes/Obsidian-Notes/My Personal Notes/.git/\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mgit \u001b[36mremote add origin git@github.com:Soumyadeep-Chak\r\nravarti/My_Obsidian_notes.git\r\n\u001b[38;2;243;174;53m\u001b[38;2;38;43;68;48;2;243;174;53m My Personal Notes \u001b[38;2;243;174;53;49m\u001b[38;2;38;43;68m \u001b[0mgit \u001b[36madd \u001b[4m.\r\n\u001b[0m",
-                    "rows": 55
-                  }
-                }
+                "file": "College/SEM 6/IMPORTANT/Time Table.md",
+                "mode": "preview",
+                "source": false
               },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: My Personal Notes"
-            }
+              "icon": "lucide-file",
+              "title": "Time Table"
+            },
+            "group": "4c22a4359d0d0c0a"
           }
         ]
       }
@@ -159,7 +97,7 @@
             }
           },
           {
-            "id": "7a40cef47a0dcacd",
+            "id": "fe802c1107741c9c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -173,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 303
   },
   "right": {
     "id": "53abf2e5b93ae417",
@@ -235,22 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Project Notes/CLI Library C/ Project Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "03de5733b1083653",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "title": "Outline of  Project Overview"
             }
           },
           {
@@ -261,6 +190,30 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "60a9592886395e3f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a59ec377a57ecd0f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -290,36 +243,49 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "dbfolder:Create a new database table": false,
       "obsidian-importer:Open Importer": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "68dd6598d51c9ec3",
+  "active": "787830289f041c00",
   "lastOpenFiles": [
-    "Calendar/Calendar.md",
-    "Calendar/2025-06-04 Class.md",
+    "College/SEM 6/CSE3015/CSE3015.md",
+    "College/SEM 6/CSE3015",
+    "College/SEM 6/SEM 6.md",
+    "College/SEM 6/IMPORTANT/Time Table.md",
+    "College/College.md",
+    "Budgetting/Per Month Money IN.md",
+    "Budgetting/Tracking/Tracking.md",
+    "Budgetting/Tracking",
+    "College/SEM 6/CSA4008/Class-3.md",
+    "Budgetting/Budgetting.md",
+    "Budgetting",
+    "College/SEM 6/CSA4008/CSA4008.md",
+    "College/SEM 6/CSA4008",
+    "College/SEM 6/IMPORTANT/IMPORTANT.md",
+    "College/SEM 6/IMPORTANT",
+    "College/SEM 6",
+    "College",
     "Vault.md",
-    "Tags/Tags.md",
-    "Project Notes/Project Notes.md",
-    "Project Notes/CLI Library C/Features/Features.md",
-    "Project Notes/CLI Library C/Features",
-    "Project Notes/CLI Library C/Core Functionalities/Core Functionalities.md",
-    "Project Notes/CLI Library C/Core Functionalities",
-    "Project Notes/CLI Library C/CLI Library C.md",
-    "Project Notes/CLI Library C",
-    "Project Notes",
-    "Calendar",
+    "Calendar/2025-06-19 OS Paper.md",
+    "Calendar/2025-06-17 CPP Paper.md",
     "Untitled.md",
-    "CLI-LIbrary-Notes/CLI-LIbrary-Notes.md",
-    "DB/DB.md",
-    "DB/My Projects.md",
-    "DB",
-    "CLI-LIbrary-Notes/Main.md",
-    "CLI-LIbrary-Notes/Core Portion/Main Core.md",
-    "CLI-LIbrary-Notes/Core Portion/Core Portion.md",
-    "CLI-LIbrary-Notes/Core Portion",
-    "CLI-LIbrary-Notes/Untitled.md",
-    "CLI-LIbrary-Notes",
-    "Tags",
-    "Welcome.md"
+    "Project Notes/CLI Library C/ Project Overview.md",
+    "Project Notes/CLI Library C/Diagrammatic Architecture.canvas",
+    "Project Notes/CLI Library C/Main Index.md",
+    "Project Notes/CLI Library C/Core Functionalities/Core Functionalities.md",
+    "Calendar/2025-07-01 Calculus Paper.md",
+    "Calendar/2025-06-30 Python Paper.md",
+    "Calendar/2025-06-27 TOC Paper.md",
+    "Calendar/2025-06-26 DBMS Paper.md",
+    "Calendar/2025-06-21 Differential Math.md",
+    "Calendar/Calendar.md",
+    "Project Notes/CLI Library C/CLI Library C.md",
+    "Project Notes/Project Notes.md",
+    "Calendar/2025-06-04 Class.md",
+    "Project Notes/CLI Library C/Features",
+    "Project Notes/CLI Library C/Core Functionalities",
+    "Project Notes/CLI Library C"
   ]
 }

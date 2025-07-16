@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"a30c005b6cb562eb","type":"group","x":-309,"y":-142,"width":271,"height":252,"label":"Core Runtime Layer"},
+		{"id":"baba52bff3d53316","type":"group","x":-305,"y":240,"width":267,"height":170,"label":"Component System  "},
+		{"id":"f92e47309af544f3","type":"text","text":"<p style=\"text-align:center;\">keypresses, events</p>","x":49,"y":-45,"width":203,"height":60},
+		{"id":"b4988e2ca86f42d2","type":"text","text":"<p style=\"text-align:center;\"> Application Entry   </p>","x":-275,"y":-380,"width":200,"height":50},
+		{"id":"ba9c47d50999d5ff","type":"text","text":"<p style=\"text-align:center;\">(main.c / user code)  </p>","x":41,"y":-380,"width":220,"height":50},
+		{"id":"4a531d938e023f09","type":"text","text":"<p style=\"text-align:center;\"> main loop / diffing</p>","x":52,"y":40,"width":197,"height":50},
+		{"id":"a6ed3d6ee57d4798","type":"text","text":"<p style=\"text-align:center;\"> init, shutdown</p>","x":67,"y":-122,"width":167,"height":50},
+		{"id":"9a313f5bb319f428","type":"text","text":"<p style=\"text-align:center;\">DOM diffing (future)</p>","x":46,"y":340,"width":210,"height":50},
+		{"id":"f1588f860418affb","type":"text","text":"<p style=\"text-align:center;\">Layout + Logic </p>","x":65,"y":260,"width":172,"height":50},
+		{"id":"cd1e670b746ca275","type":"text","text":"<p style=\"text-align:center;\"> App Lifecycle Manager</p>","x":-289,"y":-122,"width":231,"height":50},
+		{"id":"9428d2a101ba8705","type":"text","text":"<p style=\"text-align:center;\">  Input Handling    </p>","x":-289,"y":-40,"width":231,"height":50},
+		{"id":"a5b359d182c626ca","type":"text","text":"<p style=\"text-align:center;\">  Render Scheduler   </p>","x":-289,"y":40,"width":231,"height":50},
+		{"id":"b1c0f600bf2e41c2","type":"text","text":"<p style=\"text-align:center;\">Reconciliation Engine </p>","x":-285,"y":340,"width":227,"height":50},
+		{"id":"2a3fb768eba7bf5e","type":"text","text":"<p style=\"text-align:center;\">Virtual Components</p>","x":-285,"y":260,"width":227,"height":50}
+	],
+	"edges":[
+		{"id":"55061a96a78f61d9","fromNode":"ba9c47d50999d5ff","fromSide":"left","toNode":"b4988e2ca86f42d2","toSide":"right"},
+		{"id":"5685c01db333839d","fromNode":"a6ed3d6ee57d4798","fromSide":"left","toNode":"cd1e670b746ca275","toSide":"right"},
+		{"id":"fbff2f4c3135d29b","fromNode":"f92e47309af544f3","fromSide":"left","toNode":"9428d2a101ba8705","toSide":"right"},
+		{"id":"a76d03e787a2e100","fromNode":"4a531d938e023f09","fromSide":"left","toNode":"a5b359d182c626ca","toSide":"right"},
+		{"id":"b699d67f9ce21c0f","fromNode":"b4988e2ca86f42d2","fromSide":"bottom","toNode":"a30c005b6cb562eb","toSide":"top"},
+		{"id":"c646f38475138bb8","fromNode":"f1588f860418affb","fromSide":"left","toNode":"2a3fb768eba7bf5e","toSide":"right"},
+		{"id":"c0cd6b463477f550","fromNode":"9a313f5bb319f428","fromSide":"left","toNode":"b1c0f600bf2e41c2","toSide":"right"},
+		{"id":"56406ed27875ce64","fromNode":"a30c005b6cb562eb","fromSide":"bottom","toNode":"baba52bff3d53316","toSide":"top"}
+	]
+}

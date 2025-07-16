@@ -1,0 +1,29 @@
+{
+  "metadataKeyword": "abbr",
+  "detectCJK": false,
+  "detectAffixes": false,
+  "affixes": "",
+  "markInSourceMode": true,
+  "globalAbbreviations": [
+    {
+      "key": "CLI",
+      "title": "Command Line Interface"
+    },
+    {
+      "key": "TUI",
+      "title": "Terminal User Interface"
+    },
+    {
+      "key": "UI",
+      "title": "User Interface"
+    },
+    {
+      "key": "CLI",
+      "title": "Command Line Interface"
+    }
+  ],
+  "useMarkdownExtraSyntax": false,
+  "useExtraDefinitionDecorator": false,
+  "extraDefinitionDecoratorOpacity": 20,
+  "extraDefinitionDecoratorContent": "→ ${abbr}"
+}
