@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af784bea026bdf00",
+        "id": "f011186a5bf34dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "787830289f041c00",
+            "id": "fe6f40c4787e940f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/SEM 6/CSD3009/Recursion.md",
+                "file": "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/Fast Tag Basic Knowledge base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "Fast Tag Basic Knowledge base"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "ef2cabda16e8f6db",
+            "id": "d12225c16f6575e3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,8 +227,15 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "787830289f041c00",
+  "active": "fe6f40c4787e940f",
   "lastOpenFiles": [
+    "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/{9F4A9DFB-603D-4BBD-9E0B-A2138652AADA}.png",
+    "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/FastTag Hacking (RFID Hacking) (Hemraj).md",
+    "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/Fast Tag Basic Knowledge base.md",
+    "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/Alien Higgs-3 The Chip in Question.md",
+    "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)",
+    "Project Notes/EPICS Projects/EPICS Projects.md",
+    "Project Notes/EPICS Projects",
     "College/SEM 6/CSD3009/Recursion.md",
     "College/SEM 6/CSD3009/BinarySearch.c",
     "College/SEM 6/CSD3009/CSD3009.md",
@@ -249,8 +256,6 @@
     "College/SEM 6/CSA4008",
     "College/SEM 6/IMPORTANT/IMPORTANT.md",
     "College/SEM 6/IMPORTANT",
-    "College/SEM 6",
-    "College",
     "Vault.md",
     "Calendar/2025-06-19 OS Paper.md",
     "Calendar/2025-06-17 CPP Paper.md",
@@ -260,10 +265,6 @@
     "Project Notes/CLI Library C/Main Index.md",
     "Project Notes/CLI Library C/Core Functionalities/Core Functionalities.md",
     "Calendar/2025-07-01 Calculus Paper.md",
-    "Calendar/2025-06-30 Python Paper.md",
-    "Calendar/2025-06-27 TOC Paper.md",
-    "Calendar/2025-06-26 DBMS Paper.md",
-    "Calendar/2025-06-21 Differential Math.md",
-    "Calendar/Calendar.md"
+    "Calendar/2025-06-30 Python Paper.md"
   ]
 }

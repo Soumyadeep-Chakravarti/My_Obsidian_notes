@@ -46,7 +46,10 @@
     "//Calendar",
     "//College/College/SEM 6",
     "//College",
-    "//College/College/SEM 6/College/SEM 6/CSD3009"
+    "//College/College/SEM 6/College/SEM 6/CSD3009",
+    "//Project Notes",
+    "//Project Notes/Project Notes/EPICS Projects",
+    "//Project Notes/Project Notes/EPICS Projects/Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
