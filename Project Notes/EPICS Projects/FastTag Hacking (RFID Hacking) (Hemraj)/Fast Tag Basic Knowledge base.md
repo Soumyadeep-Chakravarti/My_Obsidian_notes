@@ -46,3 +46,6 @@ In the memory map provided, the data for an RFID scanner to read, particularly t
 	- More research needed for the application on large vehicles, presently stuck with small to medium sized vehicles
 
 - ===PIE with ASK causing null data entries thus a lot of testing required===
+- RFID Tag is registered with vehicle registration certificate (RC)
+	- EPC Code ➜ Vehicle Number ➜ User ➜ Wallet/Bank ➜ Balance
+- ``

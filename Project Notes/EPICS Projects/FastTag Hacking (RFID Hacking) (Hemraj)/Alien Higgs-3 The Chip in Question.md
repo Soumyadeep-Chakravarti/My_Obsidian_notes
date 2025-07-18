@@ -6,3 +6,4 @@
 - Moderate Read/Write Speed
 - **Basic Encryption Level**: ===Standard Block Encryption=== (Two-way encryption)
 - Ideal for large-scale deployments, sufficient for basic tracking
+- Data normally stored in the EPC memory sector (10h-1Fh)
