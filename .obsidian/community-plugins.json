@@ -7,11 +7,9 @@
   "obsidian-full-calendar",
   "obsidian-latex-suite",
   "obsidian-auto-link-title",
-  "pdf-plus",
   "terminal",
   "abbreviations-mark",
   "obsidian-advanced-uri",
-  "obsidian-annotator",
   "better-word-count",
   "dataview",
   "obsidian-day-planner",
@@ -25,5 +23,6 @@
   "obsidian-pandoc",
   "nldates-obsidian",
   "obsidian-mind-map",
-  "vscode-editor"
+  "vscode-editor",
+  "obsidian-annotator"
 ]
