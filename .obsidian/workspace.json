@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3db4653404ad28cc",
+        "id": "a5049abc329534a5",
         "type": "tabs",
         "children": [
           {
-            "id": "a4f44f408d0d8099",
+            "id": "74ed7861ebf7865c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Research-Papers/Soumya Pon/EpidemiologyModeling"
+                "file": "Research-Papers/Soumya Pon/EpidemiologyModeling/Basics/Epidemiology.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "EpidemiologyModeling"
+              "title": "Epidemiology"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "7b0b451b4d7ea00b",
+            "id": "f2dfc3fef319c34a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -222,11 +224,12 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "a4f44f408d0d8099",
+  "active": "74ed7861ebf7865c",
   "lastOpenFiles": [
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Basics/Epidemiology.md",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/EpidemiologyModeling.md",
     "Research-Papers/Soumya Pon/EpidemiologyModeling/Basics/Basics.md",
     "Research-Papers/Soumya Pon/EpidemiologyModeling/Basics",
-    "Research-Papers/Soumya Pon/EpidemiologyModeling/EpidemiologyModeling.md",
     "Research-Papers/Soumya Pon/EpidemiologyModeling/Untitled.md",
     "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/Ref.md",
     "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/A_multivariate_multi-step_LSTM_forecasting_model.pdf",
@@ -259,7 +262,6 @@
     "Project Notes/EPICS Projects/Neuro Hacking (BCI Devices hacking) (Hemraj)/NeuroHacker Overview — Simplified Project Brief.md",
     "Project Notes/EPICS Projects/Neuro Hacking (BCI Devices hacking) (Hemraj)/Neuro Hacking (BCI Devices hacking) (Hemraj).md",
     "Project Notes/EPICS Projects/Neuro Hacking (BCI Devices hacking) (Hemraj)/Neuro Hacker Technical.md",
-    "Project Notes/EPICS Projects/EPICS Projects.md",
     "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/{9F4A9DFB-603D-4BBD-9E0B-A2138652AADA}.png",
     "Project Notes/CLI Library C/Diagrammatic Architecture.canvas"
   ]

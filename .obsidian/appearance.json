@@ -1,5 +1,10 @@
 {
-  "cssTheme": "Encore",
+  "cssTheme": "Dune",
   "theme": "obsidian",
-  "accentColor": "#5cf5ba"
+  "accentColor": "#c66102",
+  "interfaceFontFamily": "Baskerville Old Face",
+  "textFontFamily": "Baskerville",
+  "monospaceFontFamily": "Baskerville",
+  "baseFontSize": 13,
+  "baseFontSizeAction": true
 }
