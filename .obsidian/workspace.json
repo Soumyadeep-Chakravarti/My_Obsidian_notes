@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Research-Papers/Soumya Pon"
+                "path": "Research-Papers/Soumya Pon/EpidemiologyModeling"
               },
               "icon": "lucide-file",
-              "title": "Soumya Pon"
+              "title": "EpidemiologyModeling"
             }
           }
         ]
@@ -222,22 +222,28 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "59faabf91a08482b",
+  "active": "a4f44f408d0d8099",
   "lastOpenFiles": [
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Basics/Basics.md",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Basics",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/EpidemiologyModeling.md",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Untitled.md",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/Ref.md",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/A_multivariate_multi-step_LSTM_forecasting_model.pdf",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/AnalyzeForecastingandEpidemiologyofCOVID.pdf",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/IntegratingArtificialIntelligence.pdf",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/a-hybrid-epidemiological-model-based-on-individual-dynamics.pdf",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/EpidemicForecastingWithaHybridDeepLearning.pdf",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/DeepLearningforEpidemiologists.pdf",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/HybridModelsCombiningMachineLearningandTraditionalEpidemiologicalModels.pdf",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref",
+    "Research-Papers/Soumya Pon/EpidemiologyModeling",
     "Research-Papers/Soumya Pon/Soumya Pon.md",
-    "Research-Papers/Soumya Pon",
     "Research-Papers/Research-Papers.md",
-    "Research-Papers",
+    "Research-Papers/Soumya Pon/AI/DL in Epidemiology modeling/Ref/Ref.md",
+    "Research-Papers/Soumya Pon/AI/DL in Epidemiology modeling/AI/DL in Epidemiology modeling.md",
     "Vault.md",
-    "College/SEM 6/CSA4008/Ref/Introduction to Machine Learning.pdf",
-    "College/SEM 6/CSA4008/Ref/Syllabus.pdf",
-    "College/SEM 6/CSA4008/Ref/01VM092015008350131.pdf.fdmdownload",
-    "College/SEM 6/CSA4008/Ref/introduction-to-machine-learning-third-edition-by-alpaydin-ethem-978-81-203-5078-6-phi-learning_compress.pdf",
-    "College/SEM 6/CSA4008/Ref/introduction-to-machine-learning-third-edition-by-alpaydin-ethem-978-81-203-5078-6-phi-learning_compress.pdf.fdmdownload",
     "College/SEM 6/CSA4002/CSA4002.md",
-    "College/SEM 6/CSA4002/Ref/Syllabus.pdf",
-    "College/SEM 6/CSA4002/Ref/CSA4002_ARTIFICIAL-NEURAL-NETWORKS_LTP_1.0_6_CSA4002.pdf",
-    "College/SEM 6/CSA4008/Ref/CSA4008_APPLIED-MACHINE-LEARNING_LTP_1.0_7_CSA4008_APPLIED-MACHINE-LEARNING_LTP_1.0_1_Applied Machine Learning (1).pdf",
     "College/SEM 6/CSA4002/Topics/McCulloch-Pitts Neuron Model .md",
     "College/SEM 6/CSA4002/Topics/The Perceptron.md",
     "College/SEM 6/CSA4002/Topics/Backpropagation Algorithm.md",
@@ -254,13 +260,7 @@
     "Project Notes/EPICS Projects/Neuro Hacking (BCI Devices hacking) (Hemraj)/Neuro Hacking (BCI Devices hacking) (Hemraj).md",
     "Project Notes/EPICS Projects/Neuro Hacking (BCI Devices hacking) (Hemraj)/Neuro Hacker Technical.md",
     "Project Notes/EPICS Projects/EPICS Projects.md",
-    "College/SEM 6/IMPORTANT/Time Table.md",
-    "College/SEM 6/IMPORTANT/IMPORTANT.md",
-    "College/SEM 6/SEM 6.md",
-    "College/College.md",
-    "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/Fast Tag Basic Knowledge base.md",
     "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/{9F4A9DFB-603D-4BBD-9E0B-A2138652AADA}.png",
-    "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/Alien Higgs-3 The Chip in Question.md",
     "Project Notes/CLI Library C/Diagrammatic Architecture.canvas"
   ]
 }
