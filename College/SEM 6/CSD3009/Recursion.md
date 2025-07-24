@@ -1,4 +1,4 @@
-# Methods
+ # Methods
 1. Substitution
 2. Master Theory
 3. Recursive Tree

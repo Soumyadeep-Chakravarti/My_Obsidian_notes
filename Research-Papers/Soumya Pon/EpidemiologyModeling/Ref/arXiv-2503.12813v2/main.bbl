@@ -1,0 +1,3157 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{He2020ADS}{article}{}
+      \name{author}{3}{}{%
+        {{hash=41ccfe47abeadc674f6d24a3b87fbda6}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Sha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5efd044141ce43defca910f254c488e9}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Sanyi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=54755ed85ef6496935676a5b29bc78d0}{%
+           family={Rong},
+           familyi={R\bibinitperiod},
+           given={Libin},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d5289a5989ad361f55b115b6e016230}
+      \strng{fullhash}{2d5289a5989ad361f55b115b6e016230}
+      \strng{bibnamehash}{2d5289a5989ad361f55b115b6e016230}
+      \strng{authorbibnamehash}{2d5289a5989ad361f55b115b6e016230}
+      \strng{authornamehash}{2d5289a5989ad361f55b115b6e016230}
+      \strng{authorfullhash}{2d5289a5989ad361f55b115b6e016230}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical biosciences and engineering : MBE}
+      \field{title}{A discrete stochastic model of the COVID-19 outbreak: Forecast and control.}
+      \field{volume}{17 4}
+      \field{year}{2020}
+      \field{pages}{2792\bibrangedash 2804}
+      \range{pages}{13}
+    \endentry
+    \entry{kucharski2020early}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=66eac61c12946cbf758fe0bb215080e3}{%
+           family={Kucharski},
+           familyi={K\bibinitperiod},
+           given={Adam\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0a81ea54c9cd1c970ff99cb6a47fd645}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Timothy\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=5398e3054d6fef7ae6949c422950bb57}{%
+           family={Diamond},
+           familyi={D\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=621013bf54d3546375ad71f17f020b5b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c72186d07b9f20a0861f26e6cd1ce435}{%
+           family={Edmunds},
+           familyi={E\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e6f56905c4bb6a626e0691218ac3c3fc}{%
+           family={Funk},
+           familyi={F\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2eda7301dd2068a27732b707e9c0f3df}{%
+           family={Eggo},
+           familyi={E\bibinitperiod},
+           given={Rosalind\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=19d33a29ffa9da13bc93819fc7ba08e8}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod}}}%
+        {{hash=165185e1eeadecd573532952f87ce8bd}{%
+           family={Jit},
+           familyi={J\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=17882afce2639612c097bf8ee05f4045}{%
+           family={Munday},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bdd52035c27468176f678852520a2d2c}
+      \strng{fullhash}{657f91f698e3e31a052f2f84aa92cd1c}
+      \strng{bibnamehash}{bdd52035c27468176f678852520a2d2c}
+      \strng{authorbibnamehash}{bdd52035c27468176f678852520a2d2c}
+      \strng{authornamehash}{bdd52035c27468176f678852520a2d2c}
+      \strng{authorfullhash}{657f91f698e3e31a052f2f84aa92cd1c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The lancet infectious diseases}
+      \field{number}{5}
+      \field{title}{Early dynamics of transmission and control of COVID-19: a mathematical modelling study}
+      \field{volume}{20}
+      \field{year}{2020}
+      \field{pages}{553\bibrangedash 558}
+      \range{pages}{6}
+    \endentry
+    \entry{wu2020nowcasting}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7d0d7f3f5ef0a22c43845a61d7e8fa95}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Joseph\bibnamedelima T},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=7b719fd998c45435123aa1aed4bef489}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod}}}%
+        {{hash=857c2e35a8826d8aa8c41097548ad95e}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={Gabriel\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0b2f1489b249d3dc545a7adbbeea2878}
+      \strng{fullhash}{0b2f1489b249d3dc545a7adbbeea2878}
+      \strng{bibnamehash}{0b2f1489b249d3dc545a7adbbeea2878}
+      \strng{authorbibnamehash}{0b2f1489b249d3dc545a7adbbeea2878}
+      \strng{authornamehash}{0b2f1489b249d3dc545a7adbbeea2878}
+      \strng{authorfullhash}{0b2f1489b249d3dc545a7adbbeea2878}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet}
+      \field{number}{10225}
+      \field{title}{Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study}
+      \field{volume}{395}
+      \field{year}{2020}
+      \field{pages}{689\bibrangedash 697}
+      \range{pages}{9}
+    \endentry
+    \entry{zhuang2020preliminary}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e3e7d1d74cffd2c73b5e6c05107f9fe0}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Zian},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3631513597ba2b855ec3df694a988698}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Shi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=535487658324646b660c15d70df6b429}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Qianying},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=18a53b5f3cef25358c2bf53f26de39fd}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Peihua},
+           giveni={P\bibinitperiod}}}%
+        {{hash=401e86f5714231e30306dc35106461ba}{%
+           family={Lou},
+           familyi={L\bibinitperiod},
+           given={Yijun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=eba68d34a25d8e0125cb5eeb7f44fbd9}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3176329f640ba202d53842bc62df7e12}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Daihai},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2235d8ab0672668ce207e90e7e61d058}
+      \strng{fullhash}{104e772b7bc3f246a4d835331b87b874}
+      \strng{bibnamehash}{2235d8ab0672668ce207e90e7e61d058}
+      \strng{authorbibnamehash}{2235d8ab0672668ce207e90e7e61d058}
+      \strng{authornamehash}{2235d8ab0672668ce207e90e7e61d058}
+      \strng{authorfullhash}{104e772b7bc3f246a4d835331b87b874}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Infectious Diseases}
+      \field{title}{Preliminary estimation of the novel coronavirus disease (COVID-19) cases in Iran: A modelling analysis based on overseas cases and air travel data}
+      \field{volume}{94}
+      \field{year}{2020}
+      \field{pages}{29\bibrangedash 31}
+      \range{pages}{3}
+    \endentry
+    \entry{ihme2020forecasting}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1ff33ef29c9642a896582ba567a6de66}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={IHME\bibnamedelimb COVID-19\bibnamedelimb Health\bibnamedelimb Service\bibnamedelimb Utilization\bibnamedelima Forecasting},
+           giveni={I\bibinitperiod\bibinitdelim C\bibinithyphendelim 1\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=d39647fc6f5b8f85d041b0adbed9b52e}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima JL},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory Press}%
+      }
+      \strng{namehash}{aebbf90c3dce617f6615d1a681ddf681}
+      \strng{fullhash}{aebbf90c3dce617f6615d1a681ddf681}
+      \strng{bibnamehash}{aebbf90c3dce617f6615d1a681ddf681}
+      \strng{authorbibnamehash}{aebbf90c3dce617f6615d1a681ddf681}
+      \strng{authornamehash}{aebbf90c3dce617f6615d1a681ddf681}
+      \strng{authorfullhash}{aebbf90c3dce617f6615d1a681ddf681}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MedRxiv}
+      \field{title}{Forecasting the impact of the first wave of the COVID-19 pandemic on hospital demand and deaths for the USA and European Economic Area countries}
+      \field{year}{2020}
+      \field{pages}{2020\bibrangedash 04}
+      \range{pages}{5}
+    \endentry
+    \entry{collou2019digitalization}{article}{}
+      \name{author}{3}{}{%
+        {{hash=aece3f7af7e80f4c559998b5969563bb}{%
+           family={Collou},
+           familyi={C\bibinitperiod},
+           given={Luuk\bibnamedelima D},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b48da2215f85c146e17a7b9bcad5954c}{%
+           family={Bruinsma},
+           familyi={B\bibinitperiod},
+           given={GWJ},
+           giveni={G\bibinitperiod}}}%
+        {{hash=980371729e3110a55df9dabb5f0ff817}{%
+           family={Riemsdijk},
+           familyi={R\bibinitperiod},
+           given={MJ},
+           giveni={M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Saxion University of Applied Sciences}%
+      }
+      \strng{namehash}{abd796c7f87bcec6fbc2d1f9221ef16b}
+      \strng{fullhash}{abd796c7f87bcec6fbc2d1f9221ef16b}
+      \strng{bibnamehash}{abd796c7f87bcec6fbc2d1f9221ef16b}
+      \strng{authorbibnamehash}{abd796c7f87bcec6fbc2d1f9221ef16b}
+      \strng{authornamehash}{abd796c7f87bcec6fbc2d1f9221ef16b}
+      \strng{authorfullhash}{abd796c7f87bcec6fbc2d1f9221ef16b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digitalization of HRM: designing a simulation model for HR decision making: The development of a simulation for the alignment of HR-practices}
+      \field{year}{2019}
+    \endentry
+    \entry{gupta2020trend}{article}{}
+      \name{author}{2}{}{%
+        {{hash=807d49ad29acc8aa2ff641de068b4827}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Rajan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=992f0bfd943fcfd7df9a3a76e4988d0a}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={Saibal\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory Press}%
+      }
+      \strng{namehash}{1ed8b38bdcdcbbb3206ef24a57e79881}
+      \strng{fullhash}{1ed8b38bdcdcbbb3206ef24a57e79881}
+      \strng{bibnamehash}{1ed8b38bdcdcbbb3206ef24a57e79881}
+      \strng{authorbibnamehash}{1ed8b38bdcdcbbb3206ef24a57e79881}
+      \strng{authornamehash}{1ed8b38bdcdcbbb3206ef24a57e79881}
+      \strng{authorfullhash}{1ed8b38bdcdcbbb3206ef24a57e79881}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MedRxiv}
+      \field{title}{Trend Analysis and Forecasting of COVID-19 outbreak in India}
+      \field{year}{2020}
+    \endentry
+    \entry{nesa2022forecasting}{article}{}
+      \name{author}{3}{}{%
+        {{hash=57856942363a703d8827b8c811ac8d55}{%
+           family={Nesa},
+           familyi={N\bibinitperiod},
+           given={Mossamet\bibnamedelima Kamrun},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e43661e6125949d7ab17d27ed550c70e}{%
+           family={Babu},
+           familyi={B\bibinitperiod},
+           given={Md\bibnamedelima Rashed},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=74c11576eb4788850b1bf7d3955d142b}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Mohammad\bibnamedelimb Tareq\bibnamedelima Mamun},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7513d81f79fb35d342a6acf9a9483bec}
+      \strng{fullhash}{7513d81f79fb35d342a6acf9a9483bec}
+      \strng{bibnamehash}{7513d81f79fb35d342a6acf9a9483bec}
+      \strng{authorbibnamehash}{7513d81f79fb35d342a6acf9a9483bec}
+      \strng{authornamehash}{7513d81f79fb35d342a6acf9a9483bec}
+      \strng{authorfullhash}{7513d81f79fb35d342a6acf9a9483bec}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biosafety and Health}
+      \field{number}{1}
+      \field{title}{Forecasting COVID-19 situation in Bangladesh}
+      \field{volume}{4}
+      \field{year}{2022}
+      \field{pages}{6\bibrangedash 10}
+      \range{pages}{5}
+    \endentry
+    \entry{ribeiro2020short}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ef1f1d8e76c97749c916841bd421db02}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={Matheus\bibnamedelimb Henrique\bibnamedelimb Dal\bibnamedelima Molin},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ffc2416e98f613fcb48d9158f9580d2e}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Ramon\bibnamedelima Gomes},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=1682473618b117e121d7cefc08d4d800}{%
+           family={Mariani},
+           familyi={M\bibinitperiod},
+           given={Viviana\bibnamedelima Cocco},
+           giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9dbaebccbf83d0cedbfd45e0afda699d}{%
+           family={Santos\bibnamedelima Coelho},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Leandro},
+           giveni={L\bibinitperiod},
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{516a75a27ccb745759085110036f9287}
+      \strng{fullhash}{0b0505cc660a0b4195e2b2282a6438f9}
+      \strng{bibnamehash}{0b0505cc660a0b4195e2b2282a6438f9}
+      \strng{authorbibnamehash}{0b0505cc660a0b4195e2b2282a6438f9}
+      \strng{authornamehash}{516a75a27ccb745759085110036f9287}
+      \strng{authorfullhash}{0b0505cc660a0b4195e2b2282a6438f9}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{Short-term forecasting COVID-19 cumulative confirmed cases: Perspectives for Brazil}
+      \field{volume}{135}
+      \field{year}{2020}
+      \field{pages}{109853}
+      \range{pages}{1}
+    \endentry
+    \entry{roy2021spatial}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b091af0a47dc5ed69d2e6bd970bb3fc2}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Santanu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5ee75487383d48b7e81f73025aabd58d}{%
+           family={Bhunia},
+           familyi={B\bibinitperiod},
+           given={Gouri\bibnamedelima Sankar},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=55a3004b4e646012a97e3a03c3692ead}{%
+           family={Shit},
+           familyi={S\bibinitperiod},
+           given={Pravat\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{92e28d4f4bb7bf02639a63e023597f5a}
+      \strng{fullhash}{92e28d4f4bb7bf02639a63e023597f5a}
+      \strng{bibnamehash}{92e28d4f4bb7bf02639a63e023597f5a}
+      \strng{authorbibnamehash}{92e28d4f4bb7bf02639a63e023597f5a}
+      \strng{authornamehash}{92e28d4f4bb7bf02639a63e023597f5a}
+      \strng{authorfullhash}{92e28d4f4bb7bf02639a63e023597f5a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modeling earth systems and environment}
+      \field{title}{Spatial prediction of COVID-19 epidemic using ARIMA techniques in India}
+      \field{volume}{7}
+      \field{year}{2021}
+      \field{pages}{1385\bibrangedash 1391}
+      \range{pages}{7}
+    \endentry
+    \entry{kufel2020arima}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=74a4f494891b1f2564e7aa18263cfda9}{%
+           family={Kufel},
+           familyi={K\bibinitperiod},
+           given={Tadeusz},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Instytut Badań Gospodarczych}%
+      }
+      \strng{namehash}{f86b6c0ea94f515f10161ca7631801c6}
+      \strng{fullhash}{f86b6c0ea94f515f10161ca7631801c6}
+      \strng{bibnamehash}{f86b6c0ea94f515f10161ca7631801c6}
+      \strng{authorbibnamehash}{f86b6c0ea94f515f10161ca7631801c6}
+      \strng{authornamehash}{f86b6c0ea94f515f10161ca7631801c6}
+      \strng{authorfullhash}{f86b6c0ea94f515f10161ca7631801c6}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Equilibrium. Quarterly Journal of Economics and Economic Policy}
+      \field{number}{2}
+      \field{title}{ARIMA-based forecasting of the dynamics of confirmed Covid-19 cases for selected European countries}
+      \field{volume}{15}
+      \field{year}{2020}
+      \field{pages}{181\bibrangedash 204}
+      \range{pages}{24}
+    \endentry
+    \entry{singh2020development}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b7972d799cffd2406d08f215682e2d3f}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Sarbjit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0718c9564cb9e62ac4101ad62437a8ed}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={Kulwinder\bibnamedelima Singh},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7a693bdb96a6ffdb4823f428b6927079}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Jatinder},
+           giveni={J\bibinitperiod}}}%
+        {{hash=db74c933176a4eeb40f64d938d7d55af}{%
+           family={Makkhan},
+           familyi={M\bibinitperiod},
+           given={Sidhu\bibnamedelimb Jitendra\bibnamedelima Singh},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f78351c415134e858994f0f6d00e439e}
+      \strng{fullhash}{edeb76e6e3069408b253c4bf178e6730}
+      \strng{bibnamehash}{edeb76e6e3069408b253c4bf178e6730}
+      \strng{authorbibnamehash}{edeb76e6e3069408b253c4bf178e6730}
+      \strng{authornamehash}{f78351c415134e858994f0f6d00e439e}
+      \strng{authorfullhash}{edeb76e6e3069408b253c4bf178e6730}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{Development of new hybrid model of discrete wavelet decomposition and autoregressive integrated moving average (ARIMA) models in application to one month forecast the casualties cases of COVID-19}
+      \field{volume}{135}
+      \field{year}{2020}
+      \field{pages}{109866}
+      \range{pages}{1}
+    \endentry
+    \entry{moftakhar2020exponentially}{article}{}
+      \name{author}{3}{}{%
+        {{hash=29a01f161f95dae5c30c08395cc155a7}{%
+           family={Moftakhar},
+           familyi={M\bibinitperiod},
+           given={Leila},
+           giveni={L\bibinitperiod}}}%
+        {{hash=aec6033f260d0e717ebe923716098e71}{%
+           family={Mozhgan},
+           familyi={M\bibinitperiod},
+           given={SEIF},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2ad955144c4781f0fe12756b1c3f80a6}{%
+           family={Safe},
+           familyi={S\bibinitperiod},
+           given={Marziyeh\bibnamedelima Sadat},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Tehran University of Medical Sciences}%
+      }
+      \strng{namehash}{9658a0a2bec93dbc1a7c5dc3861f10c8}
+      \strng{fullhash}{9658a0a2bec93dbc1a7c5dc3861f10c8}
+      \strng{bibnamehash}{9658a0a2bec93dbc1a7c5dc3861f10c8}
+      \strng{authorbibnamehash}{9658a0a2bec93dbc1a7c5dc3861f10c8}
+      \strng{authornamehash}{9658a0a2bec93dbc1a7c5dc3861f10c8}
+      \strng{authorfullhash}{9658a0a2bec93dbc1a7c5dc3861f10c8}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Iranian Journal of Public Health}
+      \field{number}{Suppl 1}
+      \field{title}{Exponentially increasing trend of infected patients with COVID-19 in Iran: a comparison of neural network and ARIMA forecasting models}
+      \field{volume}{49}
+      \field{year}{2020}
+      \field{pages}{92}
+      \range{pages}{1}
+    \endentry
+    \entry{liu2020predicting}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=9ec9abacdbf29d322710928113fded86}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fenglin},
+           giveni={F\bibinitperiod}}}%
+        {{hash=fcd6114a30fda9801eef65b9d374f56b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=451d91a5bd40575b8fa58bfe8d336090}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiawen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0e1dff109644a2423d611a0bfe123178}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1181f07c02d05383ef7717dff67a874b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Dagong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e7c8001d9ba3bb885962817f3c13d63d}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Junliang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cafeaf59babf1e64de1ab38cae887eee}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhuoqun},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=af9fa3bd3e2b4298536fdbcb709fefbc}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=933fd963422ab7866157b2c6a3214a76}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Yifan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b487953dbf76d420bea4f9a32d02d17b}{%
+           family={Bi},
+           familyi={B\bibinitperiod},
+           given={Xiaohui},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{daf014bc6154c7b726fb6d320e69268c}
+      \strng{fullhash}{b51fcaa906b0eb95913048c4a139f82b}
+      \strng{bibnamehash}{daf014bc6154c7b726fb6d320e69268c}
+      \strng{authorbibnamehash}{daf014bc6154c7b726fb6d320e69268c}
+      \strng{authornamehash}{daf014bc6154c7b726fb6d320e69268c}
+      \strng{authorfullhash}{b51fcaa906b0eb95913048c4a139f82b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{8}
+      \field{title}{Predicting and analyzing the COVID-19 epidemic in China: Based on SEIRD, LSTM and GWR models}
+      \field{volume}{15}
+      \field{year}{2020}
+      \field{pages}{e0238280}
+      \range{pages}{-1}
+    \endentry
+    \entry{duan2020arima}{article}{}
+      \name{author}{2}{}{%
+        {{hash=275dc6ed9ec8906a3b144f7370300379}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Xingde},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ebf1d9be8cede401ac2b5391e938c280}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaolei},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c5adfc22a6ff2f48c20c1acf153ed09c}
+      \strng{fullhash}{c5adfc22a6ff2f48c20c1acf153ed09c}
+      \strng{bibnamehash}{c5adfc22a6ff2f48c20c1acf153ed09c}
+      \strng{authorbibnamehash}{c5adfc22a6ff2f48c20c1acf153ed09c}
+      \strng{authornamehash}{c5adfc22a6ff2f48c20c1acf153ed09c}
+      \strng{authorfullhash}{c5adfc22a6ff2f48c20c1acf153ed09c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Data in brief}
+      \field{title}{ARIMA modelling and forecasting of irregularly patterned COVID-19 outbreaks using Japanese and South Korean data}
+      \field{volume}{31}
+      \field{year}{2020}
+      \field{pages}{105779}
+      \range{pages}{1}
+    \endentry
+    \entry{arunkumar2021forecasting}{article}{}
+      \name{author}{6}{}{%
+        {{hash=8bb57fd29d01a8f5f0bd19f9a6a0ade1}{%
+           family={ArunKumar},
+           familyi={A\bibinitperiod},
+           given={KE},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4c713d8503601f13bc812bd2f257d295}{%
+           family={Kalaga},
+           familyi={K\bibinitperiod},
+           given={Dinesh\bibnamedelima V},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=84a02ac5c2262f703f817b3d5108d863}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Ch\bibnamedelima Mohan\bibnamedelima Sai},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=300a3f5d5a2c99a2e99f7d96c3b0f613}{%
+           family={Chilkoor},
+           familyi={C\bibinitperiod},
+           given={Govinda},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a8876b5bb10f7650214457d930a6bbfc}{%
+           family={Kawaji},
+           familyi={K\bibinitperiod},
+           given={Masahiro},
+           giveni={M\bibinitperiod}}}%
+        {{hash=92fa705d03e3e8f923a32f2a081cd66e}{%
+           family={Brenza},
+           familyi={B\bibinitperiod},
+           given={Timothy\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d81e30f180b86382579c60f6660a5aa5}
+      \strng{fullhash}{eebad2118a229d64f272dfc7ddb1538f}
+      \strng{bibnamehash}{eebad2118a229d64f272dfc7ddb1538f}
+      \strng{authorbibnamehash}{eebad2118a229d64f272dfc7ddb1538f}
+      \strng{authornamehash}{d81e30f180b86382579c60f6660a5aa5}
+      \strng{authorfullhash}{eebad2118a229d64f272dfc7ddb1538f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied soft computing}
+      \field{title}{Forecasting the dynamics of cumulative COVID-19 cases (confirmed, recovered and deaths) for top-16 countries using statistical machine learning models: Auto-Regressive Integrated Moving Average (ARIMA) and Seasonal Auto-Regressive Integrated Moving Average (SARIMA)}
+      \field{volume}{103}
+      \field{year}{2021}
+      \field{pages}{107161}
+      \range{pages}{1}
+    \endentry
+    \entry{hernandez2020forecasting}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0e61d4156b37e8e0c54880304a311813}{%
+           family={Hernandez-Matamoros},
+           familyi={H\bibinithyphendelim M\bibinitperiod},
+           given={Andres},
+           giveni={A\bibinitperiod}}}%
+        {{hash=74dea2f6c57d4f4f199b476ca7b36bc5}{%
+           family={Fujita},
+           familyi={F\bibinitperiod},
+           given={Hamido},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7a8bd5315d2e7997af92f8411ec98d96}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={Toshitaka},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1aff3af2eba9fda486c3d58962a90355}{%
+           family={Perez-Meana},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Hector},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{73279a6686586afd2619c1a40e14d837}
+      \strng{fullhash}{c569d05e502fb8343ee8e341bc413f3e}
+      \strng{bibnamehash}{c569d05e502fb8343ee8e341bc413f3e}
+      \strng{authorbibnamehash}{c569d05e502fb8343ee8e341bc413f3e}
+      \strng{authornamehash}{73279a6686586afd2619c1a40e14d837}
+      \strng{authorfullhash}{c569d05e502fb8343ee8e341bc413f3e}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied soft computing}
+      \field{title}{Forecasting of COVID19 per regions using ARIMA models and polynomial functions}
+      \field{volume}{96}
+      \field{year}{2020}
+      \field{pages}{106610}
+      \range{pages}{1}
+    \endentry
+    \entry{roosa2020real}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ba4619eab14be3fd18d53ddb642dacf6}{%
+           family={Roosa},
+           familyi={R\bibinitperiod},
+           given={Kimberlyn},
+           giveni={K\bibinitperiod}}}%
+        {{hash=947526bc344d72487f763818bf0c5013}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Yiseul},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1607d0ca63501c062f0b07019f0201bc}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Ruiyan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1704be3648d891c3f7581d835fb1fe80}{%
+           family={Kirpich},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=122ffecc529d8f2dbccb3dcc027f2514}{%
+           family={Rothenberg},
+           familyi={R\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a6deb03a3644b5b5bb1e10b856d7233b}{%
+           family={Hyman},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8082303d3a426650b89e2e3ef7267fd6}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7110a6f6ee457d86a15dde8924429aac}{%
+           family={Chowell},
+           familyi={C\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bb82082ddc4bb1983d3b7460bf4077e5}
+      \strng{fullhash}{69783122d8c16a62d9f36089f622762c}
+      \strng{bibnamehash}{bb82082ddc4bb1983d3b7460bf4077e5}
+      \strng{authorbibnamehash}{bb82082ddc4bb1983d3b7460bf4077e5}
+      \strng{authornamehash}{bb82082ddc4bb1983d3b7460bf4077e5}
+      \strng{authorfullhash}{69783122d8c16a62d9f36089f622762c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Infectious Disease Modelling}
+      \field{title}{Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 2020}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{256\bibrangedash 263}
+      \range{pages}{8}
+    \endentry
+    \entry{chen2020reconstructing}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e2c1beaca45e4f34daf00a34cf9cc57c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ding-Geng},
+           giveni={D\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=79b67ae5a2e215151c5ca9b408e2c11c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xinguang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5a2a629c3a74154e2a4b6d76db136f29}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jenny\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{68ce06c615668326a95ce108ebb1e237}
+      \strng{fullhash}{68ce06c615668326a95ce108ebb1e237}
+      \strng{bibnamehash}{68ce06c615668326a95ce108ebb1e237}
+      \strng{authorbibnamehash}{68ce06c615668326a95ce108ebb1e237}
+      \strng{authornamehash}{68ce06c615668326a95ce108ebb1e237}
+      \strng{authorfullhash}{68ce06c615668326a95ce108ebb1e237}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Global health research and policy}
+      \field{number}{1}
+      \field{title}{Reconstructing and forecasting the COVID-19 epidemic in the United States using a 5-parameter logistic growth model}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{li2020trend}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f495cdda14989886bcfdb65c02b7a19d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=5100c76ef1e2288a5166eab4fce15e60}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d465128b014f53eb4864023a01886a1e}{%
+           family={Quan},
+           familyi={Q\bibinitperiod},
+           given={Ying-Hui},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7532842850aa8d325619890c65f1a8f3}
+      \strng{fullhash}{7532842850aa8d325619890c65f1a8f3}
+      \strng{bibnamehash}{7532842850aa8d325619890c65f1a8f3}
+      \strng{authorbibnamehash}{7532842850aa8d325619890c65f1a8f3}
+      \strng{authornamehash}{7532842850aa8d325619890c65f1a8f3}
+      \strng{authorfullhash}{7532842850aa8d325619890c65f1a8f3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Infection}
+      \field{number}{4}
+      \field{title}{Trend and forecasting of the COVID-19 outbreak in China}
+      \field{volume}{80}
+      \field{year}{2020}
+      \field{pages}{469\bibrangedash 496}
+      \range{pages}{28}
+    \endentry
+    \entry{qeadan2020naive}{article}{}
+      \name{author}{10}{}{%
+        {{hash=45e90efcac51a4e63828c2cf5ec65e8a}{%
+           family={Qeadan},
+           familyi={Q\bibinitperiod},
+           given={Fares},
+           giveni={F\bibinitperiod}}}%
+        {{hash=da559ba1d3560517f6dc281de3023753}{%
+           family={Honda},
+           familyi={H\bibinitperiod},
+           given={Trenton},
+           giveni={T\bibinitperiod}}}%
+        {{hash=179453cc71261a98171c5e4da9c4c65a}{%
+           family={Gren},
+           familyi={G\bibinitperiod},
+           given={Lisa\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=bc55951726b417f02ff8fa5c7b3b600b}{%
+           family={Dailey-Provost},
+           familyi={D\bibinithyphendelim P\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b6fb1bc87c85eb57abb762e5822b2b82}{%
+           family={Benson},
+           familyi={B\bibinitperiod},
+           given={L\bibnamedelima Scott},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d3a0393cd27f2840301599a18c66e776}{%
+           family={VanDerslice},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1df8cd6b9e3cae8a8c3d67d5145e455e}{%
+           family={Porucznik},
+           familyi={P\bibinitperiod},
+           given={Christina\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4de26b768704c82c2c50140a6a416373}{%
+           family={Waters},
+           familyi={W\bibinitperiod},
+           given={A\bibnamedelima Blake},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=1398231c85ba21c95268d977bcd82f79}{%
+           family={Lacey},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0214510535d77ee8b042eec373cc8302}{%
+           family={Shoaf},
+           familyi={S\bibinitperiod},
+           given={Kimberley},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{5fb45c3ee5949756d0b37ecbac420e04}
+      \strng{fullhash}{6f34743981312b10b115ce4be8d8887f}
+      \strng{bibnamehash}{5fb45c3ee5949756d0b37ecbac420e04}
+      \strng{authorbibnamehash}{5fb45c3ee5949756d0b37ecbac420e04}
+      \strng{authornamehash}{5fb45c3ee5949756d0b37ecbac420e04}
+      \strng{authorfullhash}{6f34743981312b10b115ce4be8d8887f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{number}{8}
+      \field{title}{Naive forecast for COVID-19 in Utah based on the South Korea and Italy models-the fluctuation between two extremes}
+      \field{volume}{17}
+      \field{year}{2020}
+      \field{pages}{2750}
+      \range{pages}{1}
+    \endentry
+    \entry{wang2020prediction}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9853252e8871ea286af6ef908f1ae73e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peipei},
+           giveni={P\bibinitperiod}}}%
+        {{hash=38a71361c40268dae35dd0a7ec6a4499}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Xinqi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=aaa4a8131630fcdb4ad73f1f307d6de5}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiayang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d74a630e855c8954485fbca53ed5f99}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Bangren},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{327f2c0b1f1f271de604db8ee507e3f9}
+      \strng{fullhash}{088cf29004b905f72b658694d2498c08}
+      \strng{bibnamehash}{088cf29004b905f72b658694d2498c08}
+      \strng{authorbibnamehash}{088cf29004b905f72b658694d2498c08}
+      \strng{authornamehash}{327f2c0b1f1f271de604db8ee507e3f9}
+      \strng{authorfullhash}{088cf29004b905f72b658694d2498c08}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{Prediction of epidemic trends in COVID-19 with logistic model and machine learning technics}
+      \field{volume}{139}
+      \field{year}{2020}
+      \field{pages}{110058}
+      \range{pages}{1}
+    \endentry
+    \entry{fathollahi2022sustainable}{article}{}
+      \name{author}{3}{}{%
+        {{hash=802cc2e082e63300cfa6c48d096a4f11}{%
+           family={Fathollahi-Fard},
+           familyi={F\bibinithyphendelim F\bibinitperiod},
+           given={Amir\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4c4ed8280aa6dfbf4464ed9c5126eda8}{%
+           family={Ahmadi},
+           familyi={A\bibinitperiod},
+           given={Abbas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=53bb60334458791fe5025056bb1ad3c3}{%
+           family={Karimi},
+           familyi={K\bibinitperiod},
+           given={Behrooz},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{b00a031ef09d9f2aff1b56f055d970c1}
+      \strng{fullhash}{b00a031ef09d9f2aff1b56f055d970c1}
+      \strng{bibnamehash}{b00a031ef09d9f2aff1b56f055d970c1}
+      \strng{authorbibnamehash}{b00a031ef09d9f2aff1b56f055d970c1}
+      \strng{authornamehash}{b00a031ef09d9f2aff1b56f055d970c1}
+      \strng{authorfullhash}{b00a031ef09d9f2aff1b56f055d970c1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Symmetry}
+      \field{number}{2}
+      \field{title}{Sustainable and robust home healthcare logistics: A response to the COVID-19 pandemic}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{pages}{193}
+      \range{pages}{1}
+    \endentry
+    \entry{mohan2022predicting}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{4}{}{%
+        {{hash=81adcedc6ce7dc59a163a7e085e3ad07}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=56427927bd5bc5fbafe9a4eeb628e2d0}{%
+           family={Solanki},
+           familyi={S\bibinitperiod},
+           given={Anil\bibnamedelima Kumar},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=0f4b3b47b79d9ccb25159cfd3a9aae9f}{%
+           family={Taluja},
+           familyi={T\bibinitperiod},
+           given={Harish\bibnamedelima Kumar},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=44452cd98042130447e7ce5b32f33397}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Anuj},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9103e88bdcec026f3b2f5ad357c6d9e5}
+      \strng{fullhash}{2f056cc1aadcc04a1c749a4ee3f23a35}
+      \strng{bibnamehash}{2f056cc1aadcc04a1c749a4ee3f23a35}
+      \strng{authorbibnamehash}{2f056cc1aadcc04a1c749a4ee3f23a35}
+      \strng{authornamehash}{9103e88bdcec026f3b2f5ad357c6d9e5}
+      \strng{authorfullhash}{2f056cc1aadcc04a1c749a4ee3f23a35}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in Biology and Medicine}
+      \field{title}{Predicting the impact of the third wave of COVID-19 in India using hybrid statistical machine learning models: A time series forecasting and sentiment analysis approach}
+      \field{volume}{144}
+      \field{year}{2022}
+      \field{pages}{105354}
+      \range{pages}{1}
+    \endentry
+    \entry{taylor2018forecasting}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fbbb4a11ad0af3fa0efcac4d5b6bd293}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Sean\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a525646025b299bd9c5d7e38f7744f51}{%
+           family={Letham},
+           familyi={L\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{092b013303e7b549b663157b09187523}
+      \strng{fullhash}{092b013303e7b549b663157b09187523}
+      \strng{bibnamehash}{092b013303e7b549b663157b09187523}
+      \strng{authorbibnamehash}{092b013303e7b549b663157b09187523}
+      \strng{authornamehash}{092b013303e7b549b663157b09187523}
+      \strng{authorfullhash}{092b013303e7b549b663157b09187523}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Statistician}
+      \field{number}{1}
+      \field{title}{Forecasting at scale}
+      \field{volume}{72}
+      \field{year}{2018}
+      \field{pages}{37\bibrangedash 45}
+      \range{pages}{9}
+    \endentry
+    \entry{taylor2017prophet}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3fe8a4077097ac3120ae4803d738cf86}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3f5c645aefce6d690674863a7033c656}{%
+           family={Letham},
+           familyi={L\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{53be6b9fa2a4ca0385b7f7b196a7d744}
+      \strng{fullhash}{53be6b9fa2a4ca0385b7f7b196a7d744}
+      \strng{bibnamehash}{53be6b9fa2a4ca0385b7f7b196a7d744}
+      \strng{authorbibnamehash}{53be6b9fa2a4ca0385b7f7b196a7d744}
+      \strng{authornamehash}{53be6b9fa2a4ca0385b7f7b196a7d744}
+      \strng{authorfullhash}{53be6b9fa2a4ca0385b7f7b196a7d744}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{R package version 0.2}
+      \field{title}{prophet: Automatic forecasting procedure}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{360}
+      \range{pages}{1}
+    \endentry
+    \entry{ndiaye2020analysis}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8ae13573036c9dfefe642cbba94cbff6}{%
+           family={Ndiaye},
+           familyi={N\bibinitperiod},
+           given={Babacar\bibnamedelima Mbaye},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=08d397d3054ffc2cde0fc4c930cd62f8}{%
+           family={Tendeng},
+           familyi={T\bibinitperiod},
+           given={Lena},
+           giveni={L\bibinitperiod}}}%
+        {{hash=92d1eb0b04a4f6a266427ccb2e308267}{%
+           family={Seck},
+           familyi={S\bibinitperiod},
+           given={Diaraf},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{261a82496d50ff3ce6bf4c6679dea31b}
+      \strng{fullhash}{261a82496d50ff3ce6bf4c6679dea31b}
+      \strng{bibnamehash}{261a82496d50ff3ce6bf4c6679dea31b}
+      \strng{authorbibnamehash}{261a82496d50ff3ce6bf4c6679dea31b}
+      \strng{authornamehash}{261a82496d50ff3ce6bf4c6679dea31b}
+      \strng{authorfullhash}{261a82496d50ff3ce6bf4c6679dea31b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2004.01574}
+      \field{title}{Analysis of the COVID-19 pandemic by SIR model and machine learning technics for forecasting}
+      \field{year}{2020}
+    \endentry
+    \entry{hosseini2024parsimonious}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e3602d1b20c7e8d2c5bb12c5892f8483}{%
+           family={Hosseini},
+           familyi={H\bibinitperiod},
+           given={Saman},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bbc6b4e631978f6ff3847660d4787b8e}{%
+           family={Cohnstaedt},
+           familyi={C\bibinitperiod},
+           given={Lee\bibnamedelima W},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=933afc550585538ff5842ddd2c362246}{%
+           family={Humphreys},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ae3dc8cfdb4429a561f958a84a279f3c}{%
+           family={Scoglio},
+           familyi={S\bibinitperiod},
+           given={Caterina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{07682a97c77589445b90b4619c568ac8}
+      \strng{fullhash}{c2ce3006680598d2af1a4932086f730c}
+      \strng{bibnamehash}{c2ce3006680598d2af1a4932086f730c}
+      \strng{authorbibnamehash}{c2ce3006680598d2af1a4932086f730c}
+      \strng{authornamehash}{07682a97c77589445b90b4619c568ac8}
+      \strng{authorfullhash}{c2ce3006680598d2af1a4932086f730c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Infectious Disease Modelling}
+      \field{number}{4}
+      \field{title}{A parsimonious Bayesian predictive model for forecasting new reported cases of West Nile disease}
+      \field{volume}{9}
+      \field{year}{2024}
+      \field{pages}{1175\bibrangedash 1197}
+      \range{pages}{23}
+    \endentry
+    \entry{pastor2015epidemic}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c393ec202f2fc7875421592989acbc18}{%
+           family={Pastor-Satorras},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={Romualdo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1f995e83b34c1fad8cc8ec5fccfc9629}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ce1c658cc6c540c525926a9c08a8decc}{%
+           family={Van\bibnamedelima Mieghem},
+           familyi={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Piet},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8f9932ed1839be02bb53a62b258449a8}{%
+           family={Vespignani},
+           familyi={V\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{6f35db3eb005ba49632049b741a70add}
+      \strng{fullhash}{7e9676d7659853e79f199eb4e2e692e7}
+      \strng{bibnamehash}{7e9676d7659853e79f199eb4e2e692e7}
+      \strng{authorbibnamehash}{7e9676d7659853e79f199eb4e2e692e7}
+      \strng{authornamehash}{6f35db3eb005ba49632049b741a70add}
+      \strng{authorfullhash}{7e9676d7659853e79f199eb4e2e692e7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reviews of modern physics}
+      \field{number}{3}
+      \field{title}{Epidemic processes in complex networks}
+      \field{volume}{87}
+      \field{year}{2015}
+      \field{pages}{925\bibrangedash 979}
+      \range{pages}{55}
+    \endentry
+    \entry{10876117}{article}{}
+      \name{author}{3}{}{%
+        {{hash=64cfd0295ea568b2dd1fb4bbfe817565}{%
+           family={Hossein\bibnamedelima Samaei},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=777155e192d57ca9ca0df57bb5ad88a8}{%
+           family={Darabi\bibnamedelima Sahneh},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Faryad},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ae3dc8cfdb4429a561f958a84a279f3c}{%
+           family={Scoglio},
+           familyi={S\bibinitperiod},
+           given={Caterina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{88eb903b96459e3c2479d4ead6e76b9a}
+      \strng{fullhash}{88eb903b96459e3c2479d4ead6e76b9a}
+      \strng{bibnamehash}{88eb903b96459e3c2479d4ead6e76b9a}
+      \strng{authorbibnamehash}{88eb903b96459e3c2479d4ead6e76b9a}
+      \strng{authornamehash}{88eb903b96459e3c2479d4ead6e76b9a}
+      \strng{authorfullhash}{88eb903b96459e3c2479d4ead6e76b9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{FastGEMF: Scalable High-Speed Simulation of Stochastic Spreading Processes Over Complex Multilayer Networks}
+      \field{volume}{13}
+      \field{year}{2025}
+      \field{pages}{27112\bibrangedash 27125}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2025.3539345
+      \endverb
+      \keyw{Stochastic processes;Epidemics;Nonhomogeneous media;Computational modeling;Analytical models;Scalability;Python;Complexity theory;Accuracy;Solid modeling;Complex networks;Markov process;epidemic spreading;mechanistic models;simulation}
+    \endentry
+    \entry{das2024sir}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ba15bfaa6d70ff29db11560620657acf}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Saswata},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ee99e997a88e850e4183fde4b4ccb1f4}{%
+           family={Samaei},
+           familyi={S\bibinitperiod},
+           given={Mohammad\bibnamedelima Hossein},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ae3dc8cfdb4429a561f958a84a279f3c}{%
+           family={Scoglio},
+           familyi={S\bibinitperiod},
+           given={Caterina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3b1e0eb734835907ec6ae3ac7934e85e}
+      \strng{fullhash}{3b1e0eb734835907ec6ae3ac7934e85e}
+      \strng{bibnamehash}{3b1e0eb734835907ec6ae3ac7934e85e}
+      \strng{authorbibnamehash}{3b1e0eb734835907ec6ae3ac7934e85e}
+      \strng{authornamehash}{3b1e0eb734835907ec6ae3ac7934e85e}
+      \strng{authorfullhash}{3b1e0eb734835907ec6ae3ac7934e85e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Network Science}
+      \field{number}{1}
+      \field{title}{SIR epidemics in interconnected networks: threshold curve and phase transition}
+      \field{volume}{9}
+      \field{year}{2024}
+      \field{pages}{50}
+      \range{pages}{1}
+    \endentry
+    \entry{XU2022105342}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f4e7211062dc28599145c1d24b3bcede}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a0923bb29fac93308964e2a4c9f3e666}{%
+           family={Magar},
+           familyi={M\bibinitperiod},
+           given={Rishikesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1d71fa35131d0982694568e33fa2d0be}{%
+           family={{Barati Farimani}},
+           familyi={B\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{885e05fc99ad8857bf3a524f2753b5ad}
+      \strng{fullhash}{885e05fc99ad8857bf3a524f2753b5ad}
+      \strng{bibnamehash}{885e05fc99ad8857bf3a524f2753b5ad}
+      \strng{authorbibnamehash}{885e05fc99ad8857bf3a524f2753b5ad}
+      \strng{authornamehash}{885e05fc99ad8857bf3a524f2753b5ad}
+      \strng{authorfullhash}{885e05fc99ad8857bf3a524f2753b5ad}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{After nearly two years since the first identification of SARS-CoV-2 virus, the surge in cases because of virus mutations is a cause of grave public health concern across the globe. As a result of this health crisis, predicting the transmission pattern of the virus is one of the most vital tasks for preparing and controlling the pandemic. In addition to mathematical models, machine learning tools, especially deep learning models have been developed for forecasting the trend of the number of patients affected by SARS-CoV-2 with great success. In this paper, three deep learning models, including CNN, LSTM, and the CNN-LSTM have been developed to predict the number of COVID-19 cases for Brazil, India and Russia. We also compare the performance of our models with the previously developed deep learning models and notice significant improvements in prediction performance. Although our models have been used only for forecasting cases in these three countries, the models can be easily applied to datasets of other countries. Among the models developed in this work, the LSTM model has the highest performance when forecasting and shows an improvement in the forecasting accuracy compared with some existing models. The research will enable accurate forecasting of the COVID-19 cases and support the global fight against the pandemic.}
+      \field{issn}{0010-4825}
+      \field{journaltitle}{Computers in Biology and Medicine}
+      \field{title}{Forecasting COVID-19 new cases using deep learning methods}
+      \field{volume}{144}
+      \field{year}{2022}
+      \field{pages}{105342}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.compbiomed.2022.105342
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010482522001342
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010482522001342
+      \endverb
+      \keyw{Sars-Cov-2,Deep Learning,Forecasting,Infected Population}
+    \endentry
+    \entry{bengio2013representation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=da21e966c02c3cfd33d74369c7435c1a}{%
+           family={Vincent},
+           familyi={V\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{54af866264cacba174612c82da34a2d7}
+      \strng{fullhash}{54af866264cacba174612c82da34a2d7}
+      \strng{bibnamehash}{54af866264cacba174612c82da34a2d7}
+      \strng{authorbibnamehash}{54af866264cacba174612c82da34a2d7}
+      \strng{authornamehash}{54af866264cacba174612c82da34a2d7}
+      \strng{authorfullhash}{54af866264cacba174612c82da34a2d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE transactions on pattern analysis and machine intelligence}
+      \field{number}{8}
+      \field{title}{Representation learning: A review and new perspectives}
+      \field{volume}{35}
+      \field{year}{2013}
+      \field{pages}{1798\bibrangedash 1828}
+      \range{pages}{31}
+    \endentry
+    \entry{schmidhuber2015deep}{article}{}
+      \name{author}{1}{}{%
+        {{hash=288bdbcfe1b91ad7484d7a24f74f99ed}{%
+           family={Schmidhuber},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{288bdbcfe1b91ad7484d7a24f74f99ed}
+      \strng{fullhash}{288bdbcfe1b91ad7484d7a24f74f99ed}
+      \strng{bibnamehash}{288bdbcfe1b91ad7484d7a24f74f99ed}
+      \strng{authorbibnamehash}{288bdbcfe1b91ad7484d7a24f74f99ed}
+      \strng{authornamehash}{288bdbcfe1b91ad7484d7a24f74f99ed}
+      \strng{authorfullhash}{288bdbcfe1b91ad7484d7a24f74f99ed}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural networks}
+      \field{title}{Deep learning in neural networks: An overview}
+      \field{volume}{61}
+      \field{year}{2015}
+      \field{pages}{85\bibrangedash 117}
+      \range{pages}{33}
+    \endentry
+    \entry{tygert2016mathematical}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2819e0b8695bce9c0aa1ebe4d1012ace}{%
+           family={Tygert},
+           familyi={T\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c83b564e32475f10dcc91be7e66d3e81}{%
+           family={Bruna},
+           familyi={B\bibinitperiod},
+           given={Joan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8ef51a0906e47d2b4472c4e714ed598f}{%
+           family={Chintala},
+           familyi={C\bibinitperiod},
+           given={Soumith},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6a1aa6b7eab12b931ca7c7e3f927231d}{%
+           family={LeCun},
+           familyi={L\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=48f92639b5a3bd34c62fc1eabf2ff6ea}{%
+           family={Piantino},
+           familyi={P\bibinitperiod},
+           given={Serkan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b31b3f03b1e1ee0eec6ff58f9a9df960}{%
+           family={Szlam},
+           familyi={S\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{4057509795074c5783398ef535dd998e}
+      \strng{fullhash}{7182e13df57b1a9600c7bdddace7be9a}
+      \strng{bibnamehash}{7182e13df57b1a9600c7bdddace7be9a}
+      \strng{authorbibnamehash}{7182e13df57b1a9600c7bdddace7be9a}
+      \strng{authornamehash}{4057509795074c5783398ef535dd998e}
+      \strng{authorfullhash}{7182e13df57b1a9600c7bdddace7be9a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural computation}
+      \field{number}{5}
+      \field{title}{A mathematical motivation for complex-valued convolutional networks}
+      \field{volume}{28}
+      \field{year}{2016}
+      \field{pages}{815\bibrangedash 825}
+      \range{pages}{11}
+    \endentry
+    \entry{de2022covid}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d83c14481439954ec509e71b8b257b8c}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Kathleen\bibnamedelima CM},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=064ffdaea115b8abbc4971d8fd72acbf}{%
+           family={Vicente},
+           familyi={V\bibinitperiod},
+           given={João\bibnamedelima Paulo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=dc65825b4fde4866a15a7ca315ca8621}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={João\bibnamedelima Paulo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a0f00b644314d5c361cb0e1f3e67e3ad}
+      \strng{fullhash}{a0f00b644314d5c361cb0e1f3e67e3ad}
+      \strng{bibnamehash}{a0f00b644314d5c361cb0e1f3e67e3ad}
+      \strng{authorbibnamehash}{a0f00b644314d5c361cb0e1f3e67e3ad}
+      \strng{authornamehash}{a0f00b644314d5c361cb0e1f3e67e3ad}
+      \strng{authorfullhash}{a0f00b644314d5c361cb0e1f3e67e3ad}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia computer science}
+      \field{title}{COVID-19 Time Series Forecasting--Twenty Days Ahead}
+      \field{volume}{196}
+      \field{year}{2022}
+      \field{pages}{1021\bibrangedash 1027}
+      \range{pages}{7}
+    \endentry
+    \entry{vadyala2021prediction}{article}{}
+      \name{author}{4}{}{%
+        {{hash=10aa45b1c91915e1c106436e87815d1e}{%
+           family={Vadyala},
+           familyi={V\bibinitperiod},
+           given={Shashank\bibnamedelima Reddy},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=20f79e15bc85888c515d0a336bf9c745}{%
+           family={Betgeri},
+           familyi={B\bibinitperiod},
+           given={Sai\bibnamedelima Nethra},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=4e257c77db5ed91b1c896336743e8e01}{%
+           family={Sherer},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=204f7b565810d98b1693a47805d73af5}{%
+           family={Amritphale},
+           familyi={A\bibinitperiod},
+           given={Amod},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b6856f49055aed1ccaf334f72169b878}
+      \strng{fullhash}{0047f7ff12916e9cbd4e76393d8fe63d}
+      \strng{bibnamehash}{0047f7ff12916e9cbd4e76393d8fe63d}
+      \strng{authorbibnamehash}{0047f7ff12916e9cbd4e76393d8fe63d}
+      \strng{authornamehash}{b6856f49055aed1ccaf334f72169b878}
+      \strng{authorfullhash}{0047f7ff12916e9cbd4e76393d8fe63d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Array}
+      \field{title}{Prediction of the number of COVID-19 confirmed cases based on K-means-LSTM}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{100085}
+      \range{pages}{1}
+    \endentry
+    \entry{arora2020prediction}{article}{}
+      \name{author}{3}{}{%
+        {{hash=32e044a89f996d9db21477f205f5d118}{%
+           family={Arora},
+           familyi={A\bibinitperiod},
+           given={Parul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7f7d76484c207160110352038e40d498}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Himanshu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=67c1da6554b930251390c03e173ef6e1}{%
+           family={Panigrahi},
+           familyi={P\bibinitperiod},
+           given={Bijaya\bibnamedelima Ketan},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{15c462f82367ff5f26dc64b13d009ab0}
+      \strng{fullhash}{15c462f82367ff5f26dc64b13d009ab0}
+      \strng{bibnamehash}{15c462f82367ff5f26dc64b13d009ab0}
+      \strng{authorbibnamehash}{15c462f82367ff5f26dc64b13d009ab0}
+      \strng{authornamehash}{15c462f82367ff5f26dc64b13d009ab0}
+      \strng{authorfullhash}{15c462f82367ff5f26dc64b13d009ab0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{Prediction and analysis of COVID-19 positive cases using deep learning models: A descriptive case study of India}
+      \field{volume}{139}
+      \field{year}{2020}
+      \field{pages}{110017}
+      \range{pages}{1}
+    \endentry
+    \entry{zeroual2020deep}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7f52c1149b1a8241a25cd43b8f55712e}{%
+           family={Zeroual},
+           familyi={Z\bibinitperiod},
+           given={Abdelhafid},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f78e8a7aaca15e7b4ceabfd53e6c778e}{%
+           family={Harrou},
+           familyi={H\bibinitperiod},
+           given={Fouzi},
+           giveni={F\bibinitperiod}}}%
+        {{hash=136a46f363dd80bcc1a13788f6b66440}{%
+           family={Dairi},
+           familyi={D\bibinitperiod},
+           given={Abdelkader},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6ec9054114121c22d3126abe383873b8}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7b7241b7d6ddfc30ecff1325b341256c}
+      \strng{fullhash}{92ce81a2a4fe99945def07233d166bd3}
+      \strng{bibnamehash}{92ce81a2a4fe99945def07233d166bd3}
+      \strng{authorbibnamehash}{92ce81a2a4fe99945def07233d166bd3}
+      \strng{authornamehash}{7b7241b7d6ddfc30ecff1325b341256c}
+      \strng{authorfullhash}{92ce81a2a4fe99945def07233d166bd3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{Deep learning methods for forecasting COVID-19 time-Series data: A Comparative study}
+      \field{volume}{140}
+      \field{year}{2020}
+      \field{pages}{110121}
+      \range{pages}{1}
+    \endentry
+    \entry{kafieh2020isfahan}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9ed6ad64d05c5783bc26f210a44a0270}{%
+           family={Kafieh},
+           familyi={K\bibinitperiod},
+           given={Rahele},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9024e67c4e93930e0a9b6adee470594a}{%
+           family={Saeedizadeh},
+           familyi={S\bibinitperiod},
+           given={Narges},
+           giveni={N\bibinitperiod}}}%
+        {{hash=dc15ba721e67bb7ae5834abcbb875ed7}{%
+           family={Arian},
+           familyi={A\bibinitperiod},
+           given={Roya},
+           giveni={R\bibinitperiod}}}%
+        {{hash=de2e636d944dca539cbfd8bf992e10bf}{%
+           family={Amini},
+           familyi={A\bibinitperiod},
+           given={Zahra},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ce7bc8dda2d05523c00272660c440cb6}{%
+           family={Serej},
+           familyi={S\bibinitperiod},
+           given={Nasim\bibnamedelima Dadashi},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ec54217740eac07fc8a1661275f162d9}{%
+           family={Vaezi},
+           familyi={V\bibinitperiod},
+           given={Atefeh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0e61b51917305b85fb504c9af4808a0d}{%
+           family={Javanmard},
+           familyi={J\bibinitperiod},
+           given={Shaghayegh\bibnamedelima Haghjooy},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2c0c4ab155ab08db10e036777d1fed29}
+      \strng{fullhash}{937eb533b279c39d7d636d3c54574ea0}
+      \strng{bibnamehash}{2c0c4ab155ab08db10e036777d1fed29}
+      \strng{authorbibnamehash}{2c0c4ab155ab08db10e036777d1fed29}
+      \strng{authornamehash}{2c0c4ab155ab08db10e036777d1fed29}
+      \strng{authorfullhash}{937eb533b279c39d7d636d3c54574ea0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{Isfahan and COVID-19: Deep spatiotemporal representation}
+      \field{volume}{141}
+      \field{year}{2020}
+      \field{pages}{110339}
+      \range{pages}{1}
+    \endentry
+    \entry{abbasimehr2021prediction}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d24e0351d591f27783694adf5b6fde23}{%
+           family={Abbasimehr},
+           familyi={A\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod}}}%
+        {{hash=196f61657deb11d389cc786d01115421}{%
+           family={Paki},
+           familyi={P\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{faaabe7d2e721b68c3de60fb5cc740e6}
+      \strng{fullhash}{faaabe7d2e721b68c3de60fb5cc740e6}
+      \strng{bibnamehash}{faaabe7d2e721b68c3de60fb5cc740e6}
+      \strng{authorbibnamehash}{faaabe7d2e721b68c3de60fb5cc740e6}
+      \strng{authornamehash}{faaabe7d2e721b68c3de60fb5cc740e6}
+      \strng{authorfullhash}{faaabe7d2e721b68c3de60fb5cc740e6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{Prediction of COVID-19 confirmed cases combining deep learning methods and Bayesian optimization}
+      \field{volume}{142}
+      \field{year}{2021}
+      \field{pages}{110511}
+      \range{pages}{1}
+    \endentry
+    \entry{achterberg2020comparing}{article}{}
+      \name{author}{6}{}{%
+        {{hash=e8d936a02880a0c9aa7045857c5ebb46}{%
+           family={Achterberg},
+           familyi={A\bibinitperiod},
+           given={Massimo\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8e1a00ea6943bfcd1212d6e5bb97a593}{%
+           family={Prasse},
+           familyi={P\bibinitperiod},
+           given={Bastian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cc6bf34c92d9cf6e693ab9eeadabc22c}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Long},
+           giveni={L\bibinitperiod}}}%
+        {{hash=57aa84fee893be448eacd299aacdc109}{%
+           family={Trajanovski},
+           familyi={T\bibinitperiod},
+           given={Stojan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=02b08e4717a8be7591bc40923109c281}{%
+           family={Kitsak},
+           familyi={K\bibinitperiod},
+           given={Maksim},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ce1c658cc6c540c525926a9c08a8decc}{%
+           family={Van\bibnamedelima Mieghem},
+           familyi={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Piet},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e1d801dd2b778fa8535b5a691494cde8}
+      \strng{fullhash}{d8b12a299a7482f57e7b8369d73fad83}
+      \strng{bibnamehash}{d8b12a299a7482f57e7b8369d73fad83}
+      \strng{authorbibnamehash}{d8b12a299a7482f57e7b8369d73fad83}
+      \strng{authornamehash}{e1d801dd2b778fa8535b5a691494cde8}
+      \strng{authorfullhash}{d8b12a299a7482f57e7b8369d73fad83}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of forecasting}
+      \field{title}{Comparing the accuracy of several network-based COVID-19 prediction algorithms}
+      \field{year}{2020}
+    \endentry
+    \entry{galasso2022random}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7759414798d680e27adad0fc3ad332c4}{%
+           family={Galasso},
+           familyi={G\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2988ec483ec8d99490efa1a7675efb8a}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Duy\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fc3200d76f70ef2f85a7f7e2202858ba}{%
+           family={Hochberg},
+           familyi={H\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7a4385c676c92a8909f14bbb4e3691d6}
+      \strng{fullhash}{7a4385c676c92a8909f14bbb4e3691d6}
+      \strng{bibnamehash}{7a4385c676c92a8909f14bbb4e3691d6}
+      \strng{authorbibnamehash}{7a4385c676c92a8909f14bbb4e3691d6}
+      \strng{authornamehash}{7a4385c676c92a8909f14bbb4e3691d6}
+      \strng{authorfullhash}{7a4385c676c92a8909f14bbb4e3691d6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{A random forest model for forecasting regional COVID-19 cases utilizing reproduction number estimates and demographic data}
+      \field{volume}{156}
+      \field{year}{2022}
+      \field{pages}{111779}
+      \range{pages}{1}
+    \endentry
+    \entry{xu2022forecasting}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f4e7211062dc28599145c1d24b3bcede}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a0923bb29fac93308964e2a4c9f3e666}{%
+           family={Magar},
+           familyi={M\bibinitperiod},
+           given={Rishikesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=721651710d5fe5e1363d467ca269e5bf}{%
+           family={Farimani},
+           familyi={F\bibinitperiod},
+           given={Amir\bibnamedelima Barati},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7ca6ef52be7e27097abea5a053025ffc}
+      \strng{fullhash}{7ca6ef52be7e27097abea5a053025ffc}
+      \strng{bibnamehash}{7ca6ef52be7e27097abea5a053025ffc}
+      \strng{authorbibnamehash}{7ca6ef52be7e27097abea5a053025ffc}
+      \strng{authornamehash}{7ca6ef52be7e27097abea5a053025ffc}
+      \strng{authorfullhash}{7ca6ef52be7e27097abea5a053025ffc}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in biology and medicine}
+      \field{title}{Forecasting COVID-19 new cases using deep learning methods}
+      \field{volume}{144}
+      \field{year}{2022}
+      \field{pages}{105342}
+      \range{pages}{1}
+    \endentry
+    \entry{zhou2022interpretable}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ebb7cf22a73a2f0e285ad48d8f3ca9f3}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Binggui},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ead11735f9789986611e01d2fff60af7}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Guanghua},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6dd99d71873fa8eaab661c0bbec77995}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=dcd83a705255a97a70b371ca6621e304}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Shaodan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3b47e8e9e95163add4cee0c0db9e7c7f}
+      \strng{fullhash}{53ff7131f79c0f0ab67401a53b826e7e}
+      \strng{bibnamehash}{53ff7131f79c0f0ab67401a53b826e7e}
+      \strng{authorbibnamehash}{53ff7131f79c0f0ab67401a53b826e7e}
+      \strng{authornamehash}{3b47e8e9e95163add4cee0c0db9e7c7f}
+      \strng{authorfullhash}{53ff7131f79c0f0ab67401a53b826e7e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Soft Computing}
+      \field{title}{Interpretable Temporal Attention Network for COVID-19 forecasting}
+      \field{volume}{120}
+      \field{year}{2022}
+      \field{pages}{108691}
+      \range{pages}{1}
+    \endentry
+    \entry{rahimi2021review}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bbdaf29359e2c3d26dc3c8dc85cab5eb}{%
+           family={Rahimi},
+           familyi={R\bibinitperiod},
+           given={Iman},
+           giveni={I\bibinitperiod}}}%
+        {{hash=d5de529f763fe493fc1be5a3fa71d53d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod}}}%
+        {{hash=70e6025cfd77238fa3f1546b4f50b732}{%
+           family={Gandomi},
+           familyi={G\bibinitperiod},
+           given={Amir\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d28cb13080a394cf53ae3575e0211309}
+      \strng{fullhash}{d28cb13080a394cf53ae3575e0211309}
+      \strng{bibnamehash}{d28cb13080a394cf53ae3575e0211309}
+      \strng{authorbibnamehash}{d28cb13080a394cf53ae3575e0211309}
+      \strng{authornamehash}{d28cb13080a394cf53ae3575e0211309}
+      \strng{authorfullhash}{d28cb13080a394cf53ae3575e0211309}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computing and Applications}
+      \field{title}{A review on COVID-19 forecasting models}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
+    \entry{chimmula2020time}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1e7e6a57b13f6515e4bb3c2104a1f214}{%
+           family={Chimmula},
+           familyi={C\bibinitperiod},
+           given={Vinay\bibnamedelimb Kumar\bibnamedelima Reddy},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f4a4cbf770add19c206827116c68732e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2f9793dd31dc019a5baacca36c0dbb11}
+      \strng{fullhash}{2f9793dd31dc019a5baacca36c0dbb11}
+      \strng{bibnamehash}{2f9793dd31dc019a5baacca36c0dbb11}
+      \strng{authorbibnamehash}{2f9793dd31dc019a5baacca36c0dbb11}
+      \strng{authornamehash}{2f9793dd31dc019a5baacca36c0dbb11}
+      \strng{authorfullhash}{2f9793dd31dc019a5baacca36c0dbb11}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos, Solitons \& Fractals}
+      \field{title}{Time series forecasting of COVID-19 transmission in Canada using LSTM networks}
+      \field{volume}{135}
+      \field{year}{2020}
+      \field{pages}{109864}
+      \range{pages}{1}
+    \endentry
+    \entry{ayyoubzadeh2020predicting}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5e3d9c68a8400a7804b8fae042278619}{%
+           family={Ayyoubzadeh},
+           familyi={A\bibinitperiod},
+           given={Seyed\bibnamedelima Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b2b3db254a9e970cd8b0a35df24f6f8a}{%
+           family={Ayyoubzadeh},
+           familyi={A\bibinitperiod},
+           given={Seyed\bibnamedelima Mehdi},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ff767e1f9fd29dd0aba3566234d4f951}{%
+           family={Zahedi},
+           familyi={Z\bibinitperiod},
+           given={Hoda},
+           giveni={H\bibinitperiod}}}%
+        {{hash=361fc0044b5bcb7540eba42a6edd7e7d}{%
+           family={Ahmadi},
+           familyi={A\bibinitperiod},
+           given={Mahnaz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=91764cb63d29725ce70ca34ad89d0516}{%
+           family={Kalhori},
+           familyi={K\bibinitperiod},
+           given={Sharareh\bibnamedelimb R\bibnamedelima Niakan},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JMIR Publications Inc., Toronto, Canada}%
+      }
+      \strng{namehash}{20885df3007abc1bb6d1038852d878cc}
+      \strng{fullhash}{37174fbeb827f6d6b475d70cf98975ea}
+      \strng{bibnamehash}{37174fbeb827f6d6b475d70cf98975ea}
+      \strng{authorbibnamehash}{37174fbeb827f6d6b475d70cf98975ea}
+      \strng{authornamehash}{20885df3007abc1bb6d1038852d878cc}
+      \strng{authorfullhash}{37174fbeb827f6d6b475d70cf98975ea}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR public health and surveillance}
+      \field{number}{2}
+      \field{title}{Predicting COVID-19 incidence through analysis of google trends data in Iran: data mining and deep learning pilot study}
+      \field{volume}{6}
+      \field{year}{2020}
+      \field{pages}{e18828}
+      \range{pages}{-1}
+    \endentry
+    \entry{fong2020finding}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ee76a00b580fc7bf2b64639fd3b2db2f}{%
+           family={Fong},
+           familyi={F\bibinitperiod},
+           given={Simon\bibnamedelima James},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=88f46d8a8bf9c614f880a4ca00ca8cf2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Gloria},
+           giveni={G\bibinitperiod}}}%
+        {{hash=659a6768e590976867dabad7f147d36c}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Nilanjan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=54ab3dec1c3a3fc8e72019a34833faf4}{%
+           family={Crespo},
+           familyi={C\bibinitperiod},
+           given={Rubén\bibnamedelima González},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=dbe83c77d4d1617e41f3bf6ca6b4a24a}{%
+           family={Herrera-Viedma},
+           familyi={H\bibinithyphendelim V\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f58b187f712ad175cd1cac93a286a636}
+      \strng{fullhash}{9d5554e6c2cafcfb9f0fcf543a9847df}
+      \strng{bibnamehash}{9d5554e6c2cafcfb9f0fcf543a9847df}
+      \strng{authorbibnamehash}{9d5554e6c2cafcfb9f0fcf543a9847df}
+      \strng{authornamehash}{f58b187f712ad175cd1cac93a286a636}
+      \strng{authorfullhash}{9d5554e6c2cafcfb9f0fcf543a9847df}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2003.10776}
+      \field{title}{Finding an accurate early forecasting model from small dataset: A case of 2019-ncov novel coronavirus outbreak}
+      \field{year}{2020}
+    \endentry
+    \entry{tamang2020forecasting}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fad76fa58dc7544fdce460fbd0bc01dc}{%
+           family={Tamang},
+           familyi={T\bibinitperiod},
+           given={SK},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9c532c6791b8b87dacfd4f9ea17c8889}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={PD},
+           giveni={P\bibinitperiod}}}%
+        {{hash=05b558c4af2d05a98f728d46d9dbd9ee}{%
+           family={Datta},
+           familyi={D\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {GJESM Publisher}%
+      }
+      \strng{namehash}{380f166556942a1b5cd1db977dc3972e}
+      \strng{fullhash}{380f166556942a1b5cd1db977dc3972e}
+      \strng{bibnamehash}{380f166556942a1b5cd1db977dc3972e}
+      \strng{authorbibnamehash}{380f166556942a1b5cd1db977dc3972e}
+      \strng{authornamehash}{380f166556942a1b5cd1db977dc3972e}
+      \strng{authorfullhash}{380f166556942a1b5cd1db977dc3972e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Global Journal of Environmental Science and Management}
+      \field{number}{Special Issue (Covid-19)}
+      \field{title}{Forecasting of Covid-19 cases based on prediction using artificial neural network curve fitting technique}
+      \field{volume}{6}
+      \field{year}{2020}
+      \field{pages}{53\bibrangedash 64}
+      \range{pages}{12}
+    \endentry
+    \entry{horby2020effect}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=ae3398a43ccbaad4c95501d828ceb75d}{%
+           family={Horby},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ea15745960d1aab3b725a40de75f4f07}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Wei\bibnamedelima Shen},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=05153f04784f564f5a66bd5df3de0cb6}{%
+           family={Emberson},
+           familyi={E\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c01344a71051186344d25fe9c8ef6347}{%
+           family={Mafham},
+           familyi={M\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod}}}%
+        {{hash=270fd6d5c9f6237956cead1628b71548}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2eb071e26dbc4cd88a151f1b3be1f450}{%
+           family={Linsell},
+           familyi={L\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod}}}%
+        {{hash=92996d9101569f151889ccae6fa4bd09}{%
+           family={Staplin},
+           familyi={S\bibinitperiod},
+           given={Natalie},
+           giveni={N\bibinitperiod}}}%
+        {{hash=32f560bb6d0baa4ef84843314fca09ae}{%
+           family={Brightling},
+           familyi={B\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=91f327fdafddfbf395dfccac5387b05b}{%
+           family={Ustianowski},
+           familyi={U\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d8d366b3c746210dca5189439cef6ee4}{%
+           family={Elmahi},
+           familyi={E\bibinitperiod},
+           given={Einas},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory Press}%
+      }
+      \strng{namehash}{f12ef44ace58c175ad8eded0f5056359}
+      \strng{fullhash}{72434300b4f4f3787fb84f43142616ec}
+      \strng{bibnamehash}{f12ef44ace58c175ad8eded0f5056359}
+      \strng{authorbibnamehash}{f12ef44ace58c175ad8eded0f5056359}
+      \strng{authornamehash}{f12ef44ace58c175ad8eded0f5056359}
+      \strng{authorfullhash}{72434300b4f4f3787fb84f43142616ec}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MedRxiv}
+      \field{title}{Effect of dexamethasone in hospitalized patients with COVID-19--preliminary report}
+      \field{year}{2020}
+      \field{pages}{2020\bibrangedash 06}
+      \range{pages}{7}
+    \endentry
+    \entry{sujath2020machine}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a29e7038abd777d6da201ef120e5eeaf}{%
+           family={Sujath},
+           familyi={S\bibinitperiod},
+           given={R\bibnamedelima at\bibnamedelima al},
+           giveni={R\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+        {{hash=0d565f8af6014e57495c975f937bfb49}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Jyotir\bibnamedelima Moy},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=31264f56eaa77c0e956e16889e3d450f}{%
+           family={Hassanien},
+           familyi={H\bibinitperiod},
+           given={Aboul\bibnamedelima Ella},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9ac166799b13ec7a85cf4855923d0e17}
+      \strng{fullhash}{9ac166799b13ec7a85cf4855923d0e17}
+      \strng{bibnamehash}{9ac166799b13ec7a85cf4855923d0e17}
+      \strng{authorbibnamehash}{9ac166799b13ec7a85cf4855923d0e17}
+      \strng{authornamehash}{9ac166799b13ec7a85cf4855923d0e17}
+      \strng{authorfullhash}{9ac166799b13ec7a85cf4855923d0e17}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Stochastic Environmental Research and Risk Assessment}
+      \field{title}{A machine learning forecasting model for COVID-19 pandemic in India}
+      \field{volume}{34}
+      \field{year}{2020}
+      \field{pages}{959\bibrangedash 972}
+      \range{pages}{14}
+    \endentry
+    \entry{sholehrasa2024integrating}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a98821ccf14bf3ededb88c661920594}{%
+           family={Sholehrasa},
+           familyi={S\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a98821ccf14bf3ededb88c661920594}
+      \strng{fullhash}{7a98821ccf14bf3ededb88c661920594}
+      \strng{bibnamehash}{7a98821ccf14bf3ededb88c661920594}
+      \strng{authorbibnamehash}{7a98821ccf14bf3ededb88c661920594}
+      \strng{authornamehash}{7a98821ccf14bf3ededb88c661920594}
+      \strng{authorfullhash}{7a98821ccf14bf3ededb88c661920594}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2410.01755}
+      \field{title}{Integrating Protein Sequence and Expression Level to Analysis Molecular Characterization of Breast Cancer Subtypes}
+      \field{year}{2024}
+    \endentry
+    \entry{lecun2015deep}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6a1aa6b7eab12b931ca7c7e3f927231d}{%
+           family={LeCun},
+           familyi={L\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9a8750ccdb2a4cf14d2655face1ce016}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{fullhash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{bibnamehash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{authorbibnamehash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{authornamehash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{authorfullhash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{nature}
+      \field{number}{7553}
+      \field{title}{Deep learning}
+      \field{volume}{521}
+      \field{year}{2015}
+      \field{pages}{436\bibrangedash 444}
+      \range{pages}{9}
+    \endentry
+    \entry{wang2017deterministic}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b6244cda9392c7c8d34c9a093b783269}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Huaizhi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=413c61d4e0c9b62c3f9492a54177f1b0}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Haiyan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9c9a4f552fa9b73bbe7f865a542f3bc0}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Jianchun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=76f88a4ac9e81730a48b46507627c9b0}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Guibin},
+           giveni={G\bibinitperiod}}}%
+        {{hash=288c465427b2b372cc3fb68ce4900901}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yitao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bb419d444235494b58481c9171c8e164}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a57c9520cb06028993425f2644c8e75f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Wenxin},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cc7e577e8f48d7da150b74bc028ef7da}
+      \strng{fullhash}{ed6f29efb67bd2b66d52be389c9c9a1a}
+      \strng{bibnamehash}{cc7e577e8f48d7da150b74bc028ef7da}
+      \strng{authorbibnamehash}{cc7e577e8f48d7da150b74bc028ef7da}
+      \strng{authornamehash}{cc7e577e8f48d7da150b74bc028ef7da}
+      \strng{authorfullhash}{ed6f29efb67bd2b66d52be389c9c9a1a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy conversion and management}
+      \field{title}{Deterministic and probabilistic forecasting of photovoltaic power based on deep convolutional neural network}
+      \field{volume}{153}
+      \field{year}{2017}
+      \field{pages}{409\bibrangedash 422}
+      \range{pages}{14}
+    \endentry
+    \entry{yao2021optimal}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5c1b62cbd4e181d818b927549813cf73}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Shunyu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fbc97cda2e444b9689aa0648712a4354}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yi-Peng},
+           giveni={Y\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=5661b2ba8e6ac8d9f326db7827a4fbe3}{%
+           family={Ramezani},
+           familyi={R\bibinitperiod},
+           given={Ehsan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7be47402ae36e20b614ae1eb36347eca}
+      \strng{fullhash}{7be47402ae36e20b614ae1eb36347eca}
+      \strng{bibnamehash}{7be47402ae36e20b614ae1eb36347eca}
+      \strng{authorbibnamehash}{7be47402ae36e20b614ae1eb36347eca}
+      \strng{authornamehash}{7be47402ae36e20b614ae1eb36347eca}
+      \strng{authorfullhash}{7be47402ae36e20b614ae1eb36347eca}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Reports}
+      \field{title}{Optimal long-term prediction of Taiwan’s transport energy by convolutional neural network and wildebeest herd optimizer}
+      \field{volume}{7}
+      \field{year}{2021}
+      \field{pages}{218\bibrangedash 227}
+      \range{pages}{10}
+    \endentry
+    \entry{srivastava2018comparative}{article}{}
+      \name{author}{2}{}{%
+        {{hash=05946130202ef929502d84a6a7b521c7}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Shikhar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9bccaa7649c82b23838f00ba291960cc}{%
+           family={Lessmann},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{107f7a5524530f84b7190cf2c3e34473}
+      \strng{fullhash}{107f7a5524530f84b7190cf2c3e34473}
+      \strng{bibnamehash}{107f7a5524530f84b7190cf2c3e34473}
+      \strng{authorbibnamehash}{107f7a5524530f84b7190cf2c3e34473}
+      \strng{authornamehash}{107f7a5524530f84b7190cf2c3e34473}
+      \strng{authorfullhash}{107f7a5524530f84b7190cf2c3e34473}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solar Energy}
+      \field{title}{A comparative study of LSTM neural networks in forecasting day-ahead global horizontal irradiance with satellite data}
+      \field{volume}{162}
+      \field{year}{2018}
+      \field{pages}{232\bibrangedash 247}
+      \range{pages}{16}
+    \endentry
+    \entry{ko2020deep}{article}{}
+      \name{author}{6}{}{%
+        {{hash=e164d7e6d584de1cce97adb30ddf5af3}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Min-Seung},
+           giveni={M\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=10b5520c9fcfdd9630bcf361a9e372fa}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kwangsuk},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bb0a042979b5f08cb94519ffa0fb1dc8}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jae-Kyeong},
+           giveni={J\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=39ae022bb208fdf054c9daeb54952f6d}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Chang\bibnamedelima Woo},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=38947d85b4a276be5b6cd606269e2d45}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Zhao\bibnamedelima Yang},
+           giveni={Z\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=21c401000e44d090a745a5bcd11c6a53}{%
+           family={Hur},
+           familyi={H\bibinitperiod},
+           given={Kyeon},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{95be7de0b0d6b123e9031d4fad5e2e3f}
+      \strng{fullhash}{00a15fc7ab9dc0b440d2c458a95dab15}
+      \strng{bibnamehash}{00a15fc7ab9dc0b440d2c458a95dab15}
+      \strng{authorbibnamehash}{00a15fc7ab9dc0b440d2c458a95dab15}
+      \strng{authornamehash}{95be7de0b0d6b123e9031d4fad5e2e3f}
+      \strng{authorfullhash}{00a15fc7ab9dc0b440d2c458a95dab15}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Sustainable Energy}
+      \field{number}{2}
+      \field{title}{Deep concatenated residual network with bidirectional LSTM for one-hour-ahead wind power forecasting}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{pages}{1321\bibrangedash 1335}
+      \range{pages}{15}
+    \endentry
+    \entry{zhang2021deep}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1276b0c695bd412950c2be5e737aeed5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Meng},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a265cc50a07994ff9123089ad45f9121}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiazheng},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2af761d9bef859ea29248418adce0dd7}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=28404e86bc65f27323ada5f9ad26d2ac}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Runnan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a7793cba94b87bee6ea0e617e3784076}
+      \strng{fullhash}{26559bac77ca1a8fbee7b38441f5b8ff}
+      \strng{bibnamehash}{26559bac77ca1a8fbee7b38441f5b8ff}
+      \strng{authorbibnamehash}{26559bac77ca1a8fbee7b38441f5b8ff}
+      \strng{authornamehash}{a7793cba94b87bee6ea0e617e3784076}
+      \strng{authorfullhash}{26559bac77ca1a8fbee7b38441f5b8ff}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Deep learning for short-term voltage stability assessment of power systems}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{29711\bibrangedash 29718}
+      \range{pages}{8}
+    \endentry
+    \entry{wang2019forecasting}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f27ec46ccd272a021fd78bdac92dd490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=62378f6c91ff4fcb95c7ca480df3d483}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Tianzhen},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1a17bd9734faf817109cdada6c2aa66f}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=72bf8b2616c173d3477e4806536f1ef7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiayu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ac1bce34886bff59380c8f58908d8f7f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ziang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=7d37b8eddbfa29411e3973fce2cd7773}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{020556a065131e974e79ae795042c869}
+      \strng{fullhash}{f3113e0bbfffaec2df0ef6278d6b057c}
+      \strng{bibnamehash}{f3113e0bbfffaec2df0ef6278d6b057c}
+      \strng{authorbibnamehash}{f3113e0bbfffaec2df0ef6278d6b057c}
+      \strng{authornamehash}{020556a065131e974e79ae795042c869}
+      \strng{authorfullhash}{f3113e0bbfffaec2df0ef6278d6b057c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Energy}
+      \field{title}{Forecasting district-scale energy dynamics through integrating building network and long short-term memory learning algorithm}
+      \field{volume}{248}
+      \field{year}{2019}
+      \field{pages}{217\bibrangedash 230}
+      \range{pages}{14}
+    \endentry
+    \entry{alizadeh2020network}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=05534791ee4803b1fba12118c2e97213}{%
+           family={Alizadeh},
+           familyi={A\bibinitperiod},
+           given={Mousa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6d816ddc22d210c52638f0ab85375f28}{%
+           family={Beheshti},
+           familyi={B\bibinitperiod},
+           given={Mohammad\bibnamedelima TH},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=39556ab9a62dc2d6455e6f290d6b6f70}{%
+           family={Ramezani},
+           familyi={R\bibinitperiod},
+           given={Amin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=06856546d9543b65e25c8e0b9c1d1e01}{%
+           family={Saadatinezhad},
+           familyi={S\bibinitperiod},
+           given={Hadis},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8751cbf1dc9f68ed7de932c43f4b4c40}
+      \strng{fullhash}{07fb9b66e8ba7aaed078b504bb39ec06}
+      \strng{bibnamehash}{07fb9b66e8ba7aaed078b504bb39ec06}
+      \strng{authorbibnamehash}{07fb9b66e8ba7aaed078b504bb39ec06}
+      \strng{authornamehash}{8751cbf1dc9f68ed7de932c43f4b4c40}
+      \strng{authorfullhash}{07fb9b66e8ba7aaed078b504bb39ec06}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 6th Iranian Conference on Signal Processing and Intelligent Systems (ICSPIS)}
+      \field{title}{Network traffic forecasting based on fixed telecommunication data using deep learning}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{alizadeh2021combination}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=05534791ee4803b1fba12118c2e97213}{%
+           family={Alizadeh},
+           familyi={A\bibinitperiod},
+           given={Mousa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dd7eeb023bc8f94be05ad8741438532e}{%
+           family={Mousavi},
+           familyi={M\bibinitperiod},
+           given={Sadegh\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6d816ddc22d210c52638f0ab85375f28}{%
+           family={Beheshti},
+           familyi={B\bibinitperiod},
+           given={Mohammad\bibnamedelima TH},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=4991acc251fa1cb886c465708e2509d7}{%
+           family={Ostadi},
+           familyi={O\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{09e6a500ae6df7fca5f300dd324fb36c}
+      \strng{fullhash}{a30386641fe3f68f0da8627d7a455051}
+      \strng{bibnamehash}{a30386641fe3f68f0da8627d7a455051}
+      \strng{authorbibnamehash}{a30386641fe3f68f0da8627d7a455051}
+      \strng{authornamehash}{09e6a500ae6df7fca5f300dd324fb36c}
+      \strng{authorfullhash}{a30386641fe3f68f0da8627d7a455051}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)}
+      \field{title}{Combination of Feature Selection and Hybrid Classifier as to Network Intrusion Detection System Adopting FA, GWO, and BAT Optimizers}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{mirjalili2014grey}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c424204a9da2927d4d0c77bc4716d175}{%
+           family={Mirjalili},
+           familyi={M\bibinitperiod},
+           given={Seyedali},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a703a27d0b36cd3df8ee008000c83e23}{%
+           family={Mirjalili},
+           familyi={M\bibinitperiod},
+           given={Seyed\bibnamedelima Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5f19ff061dc1fc5cb48790e0b40ca9cd}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a4054585cce1a784e0c6f16a73770726}
+      \strng{fullhash}{a4054585cce1a784e0c6f16a73770726}
+      \strng{bibnamehash}{a4054585cce1a784e0c6f16a73770726}
+      \strng{authorbibnamehash}{a4054585cce1a784e0c6f16a73770726}
+      \strng{authornamehash}{a4054585cce1a784e0c6f16a73770726}
+      \strng{authorfullhash}{a4054585cce1a784e0c6f16a73770726}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in engineering software}
+      \field{title}{Grey wolf optimizer}
+      \field{volume}{69}
+      \field{year}{2014}
+      \field{pages}{46\bibrangedash 61}
+      \range{pages}{16}
+    \endentry
+    \entry{mirjalili2016whale}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c424204a9da2927d4d0c77bc4716d175}{%
+           family={Mirjalili},
+           familyi={M\bibinitperiod},
+           given={Seyedali},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5f19ff061dc1fc5cb48790e0b40ca9cd}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{fullhash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{bibnamehash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{authorbibnamehash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{authornamehash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{authorfullhash}{f81d818b913e52dd9b940b962eb09142}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in engineering software}
+      \field{title}{The whale optimization algorithm}
+      \field{volume}{95}
+      \field{year}{2016}
+      \field{pages}{51\bibrangedash 67}
+      \range{pages}{17}
+    \endentry
+    \entry{guo2020short}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5737f70e1edf4244bd3626486a40686a}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Xifeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=0529eb92d88a686951048b2ed2460fc7}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Qiannan},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=86a1ff6be3e753c8dc43cac8cdda365e}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e78ae428e10ae46ab995569178b16429}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=49be6ae61a7093b7df37e9ea6a2b001f}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5c79b731dabe37cb1f989875f518fc39}
+      \strng{fullhash}{06741748ea71be500fd35eab6c32a6e2}
+      \strng{bibnamehash}{06741748ea71be500fd35eab6c32a6e2}
+      \strng{authorbibnamehash}{06741748ea71be500fd35eab6c32a6e2}
+      \strng{authornamehash}{5c79b731dabe37cb1f989875f518fc39}
+      \strng{authorfullhash}{06741748ea71be500fd35eab6c32a6e2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Reports}
+      \field{title}{A short-term load forecasting model of multi-scale CNN-LSTM hybrid neural network considering the real-time electricity price}
+      \field{volume}{6}
+      \field{year}{2020}
+      \field{pages}{1046\bibrangedash 1053}
+      \range{pages}{8}
+    \endentry
+    \entry{NiaPyJOSS2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6c66f1c6dcdc446ecb2ca6cceebf3fab}{%
+           family={Vrbančič},
+           familyi={V\bibinitperiod},
+           given={Grega},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8a8ab4a6909d7e3b8c7a28ca51b38f87}{%
+           family={Brezočnik},
+           familyi={B\bibinitperiod},
+           given={Lucija},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0bfb818fbbc1f27661c270e1fd2274e0}{%
+           family={Mlakar},
+           familyi={M\bibinitperiod},
+           given={Uroš},
+           giveni={U\bibinitperiod}}}%
+        {{hash=9c9481064e4c56bdfeb934079a688f41}{%
+           family={Fister},
+           familyi={F\bibinitperiod},
+           given={Dušan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ecccedfc3025ddb7483a2f48af106676}{%
+           family={{Fister Jr.}},
+           familyi={F\bibinitperiod},
+           given={Iztok},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{062c1207206e3f81de4489a0ae151c4e}
+      \strng{fullhash}{2f399e06c3f46a47f52af5e0dcd36523}
+      \strng{bibnamehash}{2f399e06c3f46a47f52af5e0dcd36523}
+      \strng{authorbibnamehash}{2f399e06c3f46a47f52af5e0dcd36523}
+      \strng{authornamehash}{062c1207206e3f81de4489a0ae151c4e}
+      \strng{authorfullhash}{2f399e06c3f46a47f52af5e0dcd36523}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2475-9066}
+      \field{issue}{23}
+      \field{journaltitle}{{Journal of Open Source Software}}
+      \field{title}{{NiaPy: Python microframework for building nature-inspired algorithms}}
+      \field{volume}{3}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.21105/joss.00613
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.21105/joss.00613
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21105/joss.00613
+      \endverb
+    \endentry
+    \entry{chollet2015keras}{misc}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=14134a39113404b1f80969c9ccc1f71e}{%
+           family={Chollet},
+           familyi={C\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f3cf4de7406c8a08275677188d056f8}
+      \strng{fullhash}{2f3cf4de7406c8a08275677188d056f8}
+      \strng{bibnamehash}{2f3cf4de7406c8a08275677188d056f8}
+      \strng{authorbibnamehash}{2f3cf4de7406c8a08275677188d056f8}
+      \strng{authornamehash}{2f3cf4de7406c8a08275677188d056f8}
+      \strng{authorfullhash}{2f3cf4de7406c8a08275677188d056f8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://keras.io}}
+      \field{title}{Keras}
+      \field{year}{2015}
+    \endentry
+    \entry{han2022survey}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e47c16f090fd2b1fdcc386235bff8c77}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xue},
+           giveni={X\bibinitperiod}}}%
+        {{hash=3094d251a8425d7393ee60aede0998db}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Zuojin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=78ce07edd34ff32ef8f0e514107c426c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shuihua},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2f71605b6d6d87334ae98b17d503d95e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yudong},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{564a5c2d871d79396e3ce1499ea739e2}
+      \strng{fullhash}{27a2b6e8072f0c6aebe3e96ff8db25e8}
+      \strng{bibnamehash}{27a2b6e8072f0c6aebe3e96ff8db25e8}
+      \strng{authorbibnamehash}{27a2b6e8072f0c6aebe3e96ff8db25e8}
+      \strng{authornamehash}{564a5c2d871d79396e3ce1499ea739e2}
+      \strng{authorfullhash}{27a2b6e8072f0c6aebe3e96ff8db25e8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Imaging}
+      \field{number}{1}
+      \field{title}{A Survey on Deep Learning in COVID-19 Diagnosis}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{pages}{1}
+      \range{pages}{1}
+    \endentry
+    \entry{rahman2019deep}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9dd6dbc9e7999b43bdb5998434cb4f07}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Syed\bibnamedelima Ashiqur},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=89d3ab93a7da74a14ce760d3707c4da3}{%
+           family={Adjeroh},
+           familyi={A\bibinitperiod},
+           given={Donald\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{8fd60c3b24ee8c45cc4de3de5b60a424}
+      \strng{fullhash}{8fd60c3b24ee8c45cc4de3de5b60a424}
+      \strng{bibnamehash}{8fd60c3b24ee8c45cc4de3de5b60a424}
+      \strng{authorbibnamehash}{8fd60c3b24ee8c45cc4de3de5b60a424}
+      \strng{authornamehash}{8fd60c3b24ee8c45cc4de3de5b60a424}
+      \strng{authorfullhash}{8fd60c3b24ee8c45cc4de3de5b60a424}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific reports}
+      \field{number}{1}
+      \field{title}{Deep learning using convolutional LSTM estimates biological age from physical activity}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
+    \entry{shah2021deep}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{8}{}{%
+        {{hash=5f2689c958bdd0067e319fb16a68f1eb}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Pir\bibnamedelima Masoom},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3b449476322952ca87574dcf6db8b5b2}{%
+           family={Ullah},
+           familyi={U\bibinitperiod},
+           given={Faizan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3954e8b7aafeda9067f490182222852d}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Dilawar},
+           giveni={D\bibinitperiod}}}%
+        {{hash=12a2bdd5a21b830affa3f042add044de}{%
+           family={Gani},
+           familyi={G\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b15539905d7616794f836f57aa0297d0}{%
+           family={Maple},
+           familyi={M\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0b36209f980e6531189c95063d7d5c38}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yulin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8429f75940b295eba6ff48654dae634d}{%
+           family={Abrar},
+           familyi={A\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6892ff38de8ace8e5846d211e78c8f5a}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Saif\bibnamedelima Ul},
+           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{69667b2f7e2ea5a9309d4a169c90b9c9}
+      \strng{fullhash}{a97f269b4b60bc4fc6bddf964bbfccfb}
+      \strng{bibnamehash}{69667b2f7e2ea5a9309d4a169c90b9c9}
+      \strng{authorbibnamehash}{69667b2f7e2ea5a9309d4a169c90b9c9}
+      \strng{authornamehash}{69667b2f7e2ea5a9309d4a169c90b9c9}
+      \strng{authorfullhash}{a97f269b4b60bc4fc6bddf964bbfccfb}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ieee Access}
+      \field{title}{Deep GRU-CNN model for COVID-19 detection from chest X-rays data}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{35094\bibrangedash 35105}
+      \range{pages}{12}
+    \endentry
+    \entry{wozniak2023bilstm}{article}{}
+      \name{author}{3}{}{%
+        {{hash=37d29cf80ceca4cd3f9c7d8ef7dac978}{%
+           family={Woźniak},
+           familyi={W\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3e5de4fedfe27e196df85b5fb9469e15}{%
+           family={Wieczorek},
+           familyi={W\bibinitperiod},
+           given={Micha{ł}},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b563f467998bfa1a5f6829a564cde6df}{%
+           family={Si{ł}ka},
+           familyi={S\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{94a345816f9be55c154e6e2df54b0fce}
+      \strng{fullhash}{94a345816f9be55c154e6e2df54b0fce}
+      \strng{bibnamehash}{94a345816f9be55c154e6e2df54b0fce}
+      \strng{authorbibnamehash}{94a345816f9be55c154e6e2df54b0fce}
+      \strng{authornamehash}{94a345816f9be55c154e6e2df54b0fce}
+      \strng{authorfullhash}{94a345816f9be55c154e6e2df54b0fce}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Future Generation Computer Systems}
+      \field{title}{BiLSTM deep neural network model for imbalanced medical data of IoT systems}
+      \field{volume}{141}
+      \field{year}{2023}
+      \field{pages}{489\bibrangedash 499}
+      \range{pages}{11}
+    \endentry
+    \entry{lindemann2021survey}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6b546cc7d19f39d5c4c0ee0778c5e799}{%
+           family={Lindemann},
+           familyi={L\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ee195a74bb1a2fae8eca3592bf0e386a}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Timo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d9f02416129f261f918cffde15497640}{%
+           family={Vietz},
+           familyi={V\bibinitperiod},
+           given={Hannes},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9d0467d865780e6482f8b77c44dc6414}{%
+           family={Jazdi},
+           familyi={J\bibinitperiod},
+           given={Nasser},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6bc2f7c3ce4062b44583e2d3c46a410d}{%
+           family={Weyrich},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{96de645a88affb7d671d6bd836f6aa8c}
+      \strng{fullhash}{2e96329e7d1e3b17f768d27942b547f8}
+      \strng{bibnamehash}{2e96329e7d1e3b17f768d27942b547f8}
+      \strng{authorbibnamehash}{2e96329e7d1e3b17f768d27942b547f8}
+      \strng{authornamehash}{96de645a88affb7d671d6bd836f6aa8c}
+      \strng{authorfullhash}{2e96329e7d1e3b17f768d27942b547f8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia CIRP}
+      \field{title}{A survey on long short-term memory networks for time series prediction}
+      \field{volume}{99}
+      \field{year}{2021}
+      \field{pages}{650\bibrangedash 655}
+      \range{pages}{6}
+    \endentry
+    \entry{nemenyi1963distribution}{book}{}
+      \name{author}{1}{}{%
+        {{hash=305010853b673c503c5dadcc18900215}{%
+           family={Nemenyi},
+           familyi={N\bibinitperiod},
+           given={Peter\bibnamedelima Bjorn},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University}%
+      }
+      \strng{namehash}{305010853b673c503c5dadcc18900215}
+      \strng{fullhash}{305010853b673c503c5dadcc18900215}
+      \strng{bibnamehash}{305010853b673c503c5dadcc18900215}
+      \strng{authorbibnamehash}{305010853b673c503c5dadcc18900215}
+      \strng{authornamehash}{305010853b673c503c5dadcc18900215}
+      \strng{authorfullhash}{305010853b673c503c5dadcc18900215}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Distribution-free multiple comparisons.}
+      \field{year}{1963}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
