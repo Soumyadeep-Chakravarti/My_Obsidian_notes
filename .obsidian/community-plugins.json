@@ -24,5 +24,7 @@
   "nldates-obsidian",
   "obsidian-mind-map",
   "vscode-editor",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-local-rest-api",
+  "smart-connections"
 ]
