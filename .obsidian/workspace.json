@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Notes/Nexus/Nexus - Project Structure & Tooling.md",
+                "file": "CyberSec/HackTheBox/Junior Cybersecurity Analyst/Module 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nexus - Project Structure & Tooling"
+              "title": "Module 1"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5124969482422,
-    "collapsed": true
+    "width": 322.5124969482422
   },
   "right": {
     "id": "53abf2e5b93ae417",
@@ -191,8 +190,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -201,8 +200,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -211,8 +210,18 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "be23b8168d408d80",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -251,12 +260,20 @@
   },
   "active": "29cdea69436f50cc",
   "lastOpenFiles": [
+    "Pasted image 20251114004625.png",
+    "CyberSec/HackTheBox/Junior Cybersecurity Analyst/Module 1.md",
+    "CyberSec/HackTheBox/Junior Cybersecurity Analyst/Junior Cybersecurity Analyst.md",
+    "CyberSec/HackTheBox/Junior Cybersecurity Analyst",
+    "CyberSec/HackTheBox/HackTheBox.md",
+    "CyberSec/HackTheBox/Untitled 1.md",
+    "Project Notes/Nexus/Nexus.md",
+    "CyberSec/HackTheBox/Untitled.md",
+    "Project Notes/Nexus/Nexus - Project Structure & Tooling.md",
+    "CyberSec/HackTheBox",
     "College/Supplementary Prep/CSE3006/Papers/Generate questions.md",
     "College/Supplementary Prep/MAT3002/Papers/Generated questions.md",
-    "Project Notes/Nexus/Nexus - Project Structure & Tooling.md",
     "Project Notes/Nexus/Nexus - Design Discussion.md",
     "Project Notes/Nexus/Nexus - Technical Specification.md",
-    "Project Notes/Nexus/Nexus.md",
     "Project Notes/Nexus",
     "Project Notes/Untitled.md",
     "Projects/Nexus/README.md",
@@ -279,14 +296,6 @@
     "Hackathons",
     "Research-Papers/Personal Ideas with College/Project Aegis/Untitled.md",
     "Vault.md",
-    "SIH Research.md",
-    "Untitled 4.base",
-    "Untitled 3.base",
-    "Greetings.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Project Notes/EPICS Projects/Neuro Hacking (BCI Devices hacking) (Hemraj)/Neuro Hacker Technical.md",
-    "Project Notes/EPICS Projects/FastTag Hacking (RFID Hacking) (Hemraj)/Fast Tag Basic Knowledge base.md",
     "Project Notes/CLI Library C/Diagrammatic Architecture.canvas",
     "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/arXiv-2503.12813v2/thumbnails/cas-email.jpeg",
     "Research-Papers/Soumya Pon/EpidemiologyModeling/Ref/arXiv-2503.12813v2/thumbnails/cas-facebook.jpeg",
